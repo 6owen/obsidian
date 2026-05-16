@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7cfbca3d24c993f4",
+        "id": "393ce7b7d4837178",
         "type": "tabs",
         "children": [
           {
-            "id": "cb0e9678bd2484d9",
+            "id": "b2830781113ade3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt/生成周易 64 卦.md",
+                "file": "Prompt/一句话解决codex切换供应商旧会话消失问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "生成周易 64 卦"
+              "title": "一句话解决codex切换供应商旧会话消失问题"
             }
           }
         ]
@@ -178,8 +178,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cb0e9678bd2484d9",
+  "active": "b2830781113ade3b",
   "lastOpenFiles": [
+    "Prompt/生成周易 64 卦.md",
     "Prompt/生成中国画 - 踏雪寻梅.md",
     "Prompt/生成一个 logo.md",
     "Prompt/生成金属校徽徽章.md",
@@ -201,7 +202,6 @@
     "行测/资料分析基础/1. 基础概览.md",
     "日记/2026-02-25.md",
     "日记/2024-10-14.md",
-    "Prompt/生成周易 64 卦.md",
     "Prompt/图片转成诗（带场景分析）.md",
     "Prompt/Veo3 根据「情绪文案」生成视频.md",
     "地图/1. 创建自己的地图.md",
