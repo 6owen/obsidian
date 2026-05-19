@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt/生成一个 logo.md",
+                "file": "Prompt/AI 软件流程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "生成一个 logo"
+              "title": "AI 软件流程"
             }
           }
         ]
@@ -180,12 +180,13 @@
   },
   "active": "5fa38e49068f6c28",
   "lastOpenFiles": [
+    "Prompt/生成一个 logo.md",
+    "Prompt/AI 软件流程.md",
     "Prompt/生成金属校徽徽章.md",
     "Prompt/AI 讲解知识点.md",
     "Prompt/一句话解决codex切换供应商旧会话消失问题.md",
     "Prompt/生成周易 64 卦.md",
     "Prompt/生成中国画 - 踏雪寻梅.md",
-    "Prompt/生成一个 logo.md",
     "Prompt/东北雨姐本姐技术大拿.md",
     "Prompt/网页设计 prompt 复古 windows.md",
     "Prompt/网页设计 prompt sketch.md",
@@ -208,7 +209,6 @@
     "地图/下载好看的带名称的和省界的地图.md",
     "TODO/Postly.md",
     "软件/🍔  Mine.md",
-    "AI 应用/Web-to-API wrapping：.md",
     "未命名.base",
     "总览.canvas",
     "Prompt",
