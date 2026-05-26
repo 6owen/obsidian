@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt/AI 软件流程.md",
+                "file": "Prompt/破解模型指令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI 软件流程"
+              "title": "破解模型指令"
             }
           }
         ]
@@ -180,8 +180,9 @@
   },
   "active": "5fa38e49068f6c28",
   "lastOpenFiles": [
-    "Prompt/生成一个 logo.md",
     "Prompt/AI 软件流程.md",
+    "Prompt/破解模型指令.md",
+    "Prompt/生成一个 logo.md",
     "Prompt/生成金属校徽徽章.md",
     "Prompt/AI 讲解知识点.md",
     "Prompt/一句话解决codex切换供应商旧会话消失问题.md",
@@ -208,7 +209,6 @@
     "地图/1. 创建自己的地图.md",
     "地图/下载好看的带名称的和省界的地图.md",
     "TODO/Postly.md",
-    "软件/🍔  Mine.md",
     "未命名.base",
     "总览.canvas",
     "Prompt",
