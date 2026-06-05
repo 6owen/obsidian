@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt/破解模型指令.md",
+                "file": "Prompt/生成插画.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "破解模型指令"
+              "title": "生成插画"
             }
           }
         ]
@@ -180,8 +180,9 @@
   },
   "active": "5fa38e49068f6c28",
   "lastOpenFiles": [
-    "Prompt/AI 软件流程.md",
     "Prompt/破解模型指令.md",
+    "Prompt/生成插画.md",
+    "Prompt/AI 软件流程.md",
     "Prompt/生成一个 logo.md",
     "Prompt/生成金属校徽徽章.md",
     "Prompt/AI 讲解知识点.md",
@@ -208,7 +209,6 @@
     "Prompt/Veo3 根据「情绪文案」生成视频.md",
     "地图/1. 创建自己的地图.md",
     "地图/下载好看的带名称的和省界的地图.md",
-    "TODO/Postly.md",
     "未命名.base",
     "总览.canvas",
     "Prompt",
