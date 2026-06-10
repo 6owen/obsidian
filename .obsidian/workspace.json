@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1a5c86af9e40cad6",
+        "id": "b554dddb5f18b753",
         "type": "tabs",
         "children": [
           {
-            "id": "5fa38e49068f6c28",
+            "id": "4e4140dd572fcb40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt/生成插画.md",
+                "file": "Prompt/AI 讲解知识点.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "生成插画"
+              "title": "AI 讲解知识点"
             }
           }
         ]
@@ -178,10 +178,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5fa38e49068f6c28",
+  "active": "4e4140dd572fcb40",
   "lastOpenFiles": [
-    "Prompt/破解模型指令.md",
+    "Agent",
     "Prompt/生成插画.md",
+    "Prompt/破解模型指令.md",
     "Prompt/AI 软件流程.md",
     "Prompt/生成一个 logo.md",
     "Prompt/生成金属校徽徽章.md",
@@ -208,7 +209,6 @@
     "Prompt/图片转成诗（带场景分析）.md",
     "Prompt/Veo3 根据「情绪文案」生成视频.md",
     "地图/1. 创建自己的地图.md",
-    "地图/下载好看的带名称的和省界的地图.md",
     "未命名.base",
     "总览.canvas",
     "Prompt",
