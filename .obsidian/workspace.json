@@ -4,24 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "9382955d52727e74",
+        "id": "14aeaed858d6a515",
         "type": "tabs",
         "children": [
           {
-            "id": "78317e7499178a2b",
+            "id": "28ec50ac5c93075d",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "未命名.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "d7432c17ff55073a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI 应用/Web-to-API wrapping：.md",
+                "file": "985 211.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web-to-API wrapping："
+              "title": "985 211"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,8 +192,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "78317e7499178a2b",
+  "active": "d7432c17ff55073a",
   "lastOpenFiles": [
+    "未命名.base",
+    "985 211.md",
+    "未命名 1.base",
+    "AI 应用/Web-to-API wrapping：.md",
     "Prompt/AI 讲解知识点.md",
     "Agent",
     "Prompt/生成插画.md",
@@ -201,15 +219,11 @@
     "AI 应用/小说/关键词.md",
     "行测/资料分析基础/2. 计算复习.md",
     "AI 应用/小说",
-    "未命名 1.base",
     "日记/2026-02-24.md",
     "行测/资料分析基础/1. 基础概览.md",
     "日记/2026-02-25.md",
     "日记/2024-10-14.md",
     "Prompt/图片转成诗（带场景分析）.md",
-    "Prompt/Veo3 根据「情绪文案」生成视频.md",
-    "地图/1. 创建自己的地图.md",
-    "未命名.base",
     "总览.canvas",
     "Prompt",
     "AI 应用/Nano Banana",
