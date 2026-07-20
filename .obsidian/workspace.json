@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "14aeaed858d6a515",
+        "id": "df04c51fd033470b",
         "type": "tabs",
         "children": [
           {
-            "id": "28ec50ac5c93075d",
+            "id": "7059f840660192af",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -178,19 +178,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "28ec50ac5c93075d",
+  "active": "7059f840660192af",
   "lastOpenFiles": [
+    "Prompt/AI 软件流程.md",
+    "Prompt/生成金属校徽徽章.md",
+    "未命名 1.base",
+    "text.md",
+    "Prompt/AI 讲解知识点.md",
+    "Prompt/files/text.md",
+    "Prompt/files",
     "2026 安徽物理类（物化生）工科志愿调研报告.md",
     "未命名.base",
-    "未命名 1.base",
     "AI 应用/Web-to-API wrapping：.md",
-    "Prompt/AI 讲解知识点.md",
     "Agent",
     "Prompt/生成插画.md",
     "Prompt/破解模型指令.md",
-    "Prompt/AI 软件流程.md",
     "Prompt/生成一个 logo.md",
-    "Prompt/生成金属校徽徽章.md",
     "Prompt/一句话解决codex切换供应商旧会话消失问题.md",
     "Prompt/生成周易 64 卦.md",
     "Prompt/生成中国画 - 踏雪寻梅.md",
@@ -208,14 +211,11 @@
     "日记/2026-02-24.md",
     "行测/资料分析基础/1. 基础概览.md",
     "日记/2026-02-25.md",
-    "日记/2024-10-14.md",
-    "Prompt/图片转成诗（带场景分析）.md",
     "总览.canvas",
     "Prompt",
     "AI 应用/Nano Banana",
     "AI 应用/镜头",
     "AI 应用",
-    "行测/判断推理",
     "日常/files/Pasted image 20241009173543.png",
     "日常/files/docker-vscode.gif",
     "日常/files/Pasted image 20241010161709.png",
