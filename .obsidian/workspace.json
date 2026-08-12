@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "df04c51fd033470b",
+        "id": "5f7b7681a8078509",
         "type": "tabs",
         "children": [
           {
-            "id": "7059f840660192af",
+            "id": "871c1a7d0304f26f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt/AI 讲解知识点.md",
+                "file": "苹果 CMS 视频采集搭建/MacCMS-VPS-运维信息.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI 讲解知识点"
-            }
-          },
-          {
-            "id": "c0cd4389262f9534",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.13.4"
+              "title": "MacCMS-VPS-运维信息"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,20 +177,31 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "tldraw:Create new tldrawing": false
     }
   },
-  "active": "c0cd4389262f9534",
+  "active": "871c1a7d0304f26f",
   "lastOpenFiles": [
+    "苹果 CMS 视频采集搭建/MacCMS-系统架构与操作指南.tldraw.tmp-21254",
+    "苹果 CMS 视频采集搭建/MacCMS-系统架构与操作指南.tldraw",
+    "苹果 CMS 视频采集搭建/MacCMS-VPS-运维信息.md",
+    "苹果 CMS 视频采集搭建/未命名.md",
+    "苹果 CMS 视频采集搭建/Tldraw 2026-08-12 2.04下午.md",
+    "未命名.base",
+    "总览.canvas",
+    "未命名 1.base",
+    "未命名.canvas",
+    "Excalidraw/Drawing 2026-08-12 14.05.12.excalidraw.md",
+    "Excalidraw/Drawing 2026-08-12 14.03.59.excalidraw.md",
+    "苹果 CMS 视频采集搭建",
+    "Prompt/AI 讲解知识点.md",
     "Prompt/AI 软件流程.md",
     "Prompt/生成金属校徽徽章.md",
-    "未命名 1.base",
     "text.md",
-    "Prompt/AI 讲解知识点.md",
     "Prompt/files/text.md",
     "Prompt/files",
     "2026 安徽物理类（物化生）工科志愿调研报告.md",
-    "未命名.base",
     "AI 应用/Web-to-API wrapping：.md",
     "Agent",
     "Prompt/生成插画.md",
@@ -220,17 +218,9 @@
     "日常/🍔 前端开发.md",
     "财务/美股期权 qqq.md",
     "财务",
-    "AI 应用/小说/关键词.md",
-    "行测/资料分析基础/2. 计算复习.md",
     "AI 应用/小说",
-    "日记/2026-02-24.md",
-    "行测/资料分析基础/1. 基础概览.md",
-    "日记/2026-02-25.md",
-    "总览.canvas",
     "Prompt",
     "AI 应用/Nano Banana",
-    "AI 应用/镜头",
-    "AI 应用",
     "日常/files/Pasted image 20241009173543.png",
     "日常/files/docker-vscode.gif",
     "日常/files/Pasted image 20241010161709.png",
@@ -241,7 +231,6 @@
     "日常/files/Pasted image 20241010115246.png",
     "日常/files/Pasted image 20241009181524.png",
     "日常/files/Pasted image 20241009174200.png",
-    "未命名.canvas",
     "未命名 1.canvas"
   ]
 }
