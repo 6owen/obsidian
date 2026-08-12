@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "AI 讲解知识点"
             }
+          },
+          {
+            "id": "c0cd4389262f9534",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.13.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -178,7 +193,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7059f840660192af",
+  "active": "c0cd4389262f9534",
   "lastOpenFiles": [
     "Prompt/AI 软件流程.md",
     "Prompt/生成金属校徽徽章.md",
