@@ -11,14 +11,12 @@
             "id": "871c1a7d0304f26f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "tldraw-offline",
               "state": {
-                "file": "苹果 CMS 视频采集搭建/MacCMS-VPS-运维信息.md",
-                "mode": "source",
-                "source": false
+                "file": "苹果 CMS 视频采集搭建/MacCMS-系统架构与操作指南.tldraw"
               },
-              "icon": "lucide-file",
-              "title": "MacCMS-VPS-运维信息"
+              "icon": "tldraw-icon",
+              "title": "MacCMS-系统架构与操作指南"
             }
           }
         ]
@@ -183,9 +181,9 @@
   },
   "active": "871c1a7d0304f26f",
   "lastOpenFiles": [
+    "苹果 CMS 视频采集搭建/MacCMS-VPS-运维信息.md",
     "苹果 CMS 视频采集搭建/MacCMS-系统架构与操作指南.tldraw.tmp-21254",
     "苹果 CMS 视频采集搭建/MacCMS-系统架构与操作指南.tldraw",
-    "苹果 CMS 视频采集搭建/MacCMS-VPS-运维信息.md",
     "苹果 CMS 视频采集搭建/未命名.md",
     "苹果 CMS 视频采集搭建/Tldraw 2026-08-12 2.04下午.md",
     "未命名.base",
@@ -220,7 +218,6 @@
     "财务",
     "AI 应用/小说",
     "Prompt",
-    "AI 应用/Nano Banana",
     "日常/files/Pasted image 20241009173543.png",
     "日常/files/docker-vscode.gif",
     "日常/files/Pasted image 20241010161709.png",
