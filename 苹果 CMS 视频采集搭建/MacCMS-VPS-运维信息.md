@@ -10,24 +10,24 @@
 
 ## 1. 快速索引
 
-| 项目 | 地址或路径 |
-| --- | --- |
-| 网站 | https://cms.mmeme.me/ |
-| 后台登录 | https://cms.mmeme.me/panel_df3e85cb.php/admin/index/index.html |
-| Mxone Pro 设置 | https://cms.mmeme.me/panel_df3e85cb.php/admin/mxpro/mxproset.html |
-| VPS 公网 IP | `107.173.89.101` |
-| 本机 SSH 命令 | `ssh vps-107` |
-| MacCMS 根目录 | `/var/www/maccms10` |
-| 当前前台模板 | `/var/www/maccms10/template/mxpro` |
-| Mxone Pro 静态资源 | `/var/www/maccms10/mxtheme` |
-| 自动采集脚本 | `/usr/local/sbin/maccms-collect.php` |
-| 自动采集 cron | `/etc/cron.d/maccms-collect` |
-| 自动采集日志 | `/var/log/maccms-collect.log` |
-| 数据库配置 | `/var/www/maccms10/application/database.php` |
-| 统一凭证记录 | `/root/maccms-credentials.txt` |
-| MariaDB 实际数据目录 | `/var/lib/mysql/maccms` |
-| Nginx 站点配置 | `/etc/nginx/sites-available/maccms10` |
-| HTTPS 证书入口 | `/etc/letsencrypt/live/cms.mmeme.me/` |
+| 项目             | 地址或路径                                                             |
+| -------------- | ----------------------------------------------------------------- |
+| 网站             | https://cms.mmeme.me/                                             |
+| 后台登录           | https://cms.mmeme.me/panel_df3e85cb.php/admin/index/index.html    |
+| Mxone Pro 设置   | https://cms.mmeme.me/panel_df3e85cb.php/admin/mxpro/mxproset.html |
+| VPS 公网 IP      | `107.173.89.101`                                                  |
+| 本机 SSH 命令      | `ssh vps-107`                                                     |
+| MacCMS 根目录     | `/var/www/maccms10`                                               |
+| 当前前台模板         | `/var/www/maccms10/template/mxpro`                                |
+| Mxone Pro 静态资源 | `/var/www/maccms10/mxtheme`                                       |
+| 自动采集脚本         | `/usr/local/sbin/maccms-collect.php`                              |
+| 自动采集 cron      | `/etc/cron.d/maccms-collect`                                      |
+| 自动采集日志         | `/var/log/maccms-collect.log`                                     |
+| 数据库配置          | `/var/www/maccms10/application/database.php`                      |
+| 统一凭证记录         | `/root/maccms-credentials.txt`                                    |
+| MariaDB 实际数据目录 | `/var/lib/mysql/maccms`                                           |
+| Nginx 站点配置     | `/etc/nginx/sites-available/maccms10`                             |
+| HTTPS 证书入口     | `/etc/letsencrypt/live/cms.mmeme.me/`                             |
 
 ## 2. 服务器概况
 
@@ -282,6 +282,46 @@ ssh vps-107
 | 暴风资源 | `https://bfzyapi.com/api.php/provide/vod/` |
 
 这些资源站也记录在数据库表 `mac_collect` 中。采集脚本里的来源配置是自动任务的实际来源；如果只在后台修改资源站，而不修改脚本，下一次 `--setup-only` 或自动采集可能按脚本配置重新同步。
+
+### 一次性四站全量采集队列（2026-08-13）
+
+为量子、非凡、光速、红牛分别部署了独立的全量脚本，并由 systemd 严格串行执行：
+
+| 资源站 | 全量脚本 | 日志 |
+| --- | --- | --- |
+| 量子资源 | `/usr/local/sbin/maccms-full-liangzi.sh` | `/var/log/maccms-full-liangzi.log` |
+| 非凡资源 | `/usr/local/sbin/maccms-full-feifan.sh` | `/var/log/maccms-full-feifan.log` |
+| 光速资源 | `/usr/local/sbin/maccms-full-guangsu.sh` | `/var/log/maccms-full-guangsu.log` |
+| 红牛资源 | `/usr/local/sbin/maccms-full-hongniu.sh` | `/var/log/maccms-full-hongniu.log` |
+
+队列管理：
+
+| 用途 | 路径 |
+| --- | --- |
+| 串行队列脚本 | `/usr/local/sbin/maccms-full-queue.sh` |
+| systemd 服务 | `/etc/systemd/system/maccms-full-queue.service` |
+| 队列总日志 | `/var/log/maccms-full-queue.log` |
+| 全量前数据库备份 | `/root/maccms-before-four-full-20260813-020731.sql.gz` |
+
+队列顺序为：量子 → 非凡 → 光速 → 红牛。整个队列持有 `/run/maccms-collect.lock`，因此在全量任务运行期间，每 6 小时的增量 cron 会自动跳过，不会并发写入。systemd 为队列设置了较低 CPU/I/O 优先级。
+
+查看当前状态和进度：
+
+```bash
+systemctl status maccms-full-queue.service
+tail -f /var/log/maccms-full-queue.log
+tail -f /var/log/maccms-full-liangzi.log
+```
+
+队列正常完成后，`maccms-full-queue.service` 会变为 `inactive (dead)` 且 `Result=success`。这是一次性任务，服务没有 enable 为开机自动重跑。
+
+单站脚本也可用 `--max-pages=2` 做小范围测试：
+
+```bash
+/usr/local/sbin/maccms-full-liangzi.sh --max-pages=2
+```
+
+注意：这些全量脚本不应在队列正在运行时另行启动。卧龙资源的旧接口已失效，已从后台删除，也未进入自动脚本。
 
 查看最近采集结果：
 
