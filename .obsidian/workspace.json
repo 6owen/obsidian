@@ -11,10 +11,14 @@
             "id": "001553043064e1d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "投资/SpaceX.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "SpaceX"
             }
           }
         ]
@@ -179,6 +183,8 @@
   },
   "active": "001553043064e1d1",
   "lastOpenFiles": [
+    "投资/SpaceX.md",
+    "投资",
     "苹果 CMS 视频采集搭建/MacCMS-VPS-运维信息.md",
     "苹果 CMS 视频采集搭建/MacCMS-系统架构与操作指南.tldraw",
     "苹果 CMS 视频采集搭建/Tldraw 2026-08-12 2.04下午.md",
@@ -215,7 +221,6 @@
     "日常/🍔 前端开发.md",
     "财务/美股期权 qqq.md",
     "财务",
-    "AI 应用/小说",
     "日常/files/Pasted image 20241009173543.png",
     "日常/files/docker-vscode.gif",
     "日常/files/Pasted image 20241010161709.png",
