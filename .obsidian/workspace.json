@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a91fa59b50dfd188",
+        "id": "29e3028d2481e5fa",
         "type": "tabs",
         "children": [
           {
-            "id": "644a93285c9fdb4e",
+            "id": "001553043064e1d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "苹果 CMS 视频采集搭建/MacCMS-VPS-运维信息.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "MacCMS-VPS-运维信息"
-            }
-          },
-          {
-            "id": "bebd81ba239e50da",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.13.7"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,12 +177,12 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "bebd81ba239e50da",
+  "active": "001553043064e1d1",
   "lastOpenFiles": [
+    "苹果 CMS 视频采集搭建/MacCMS-VPS-运维信息.md",
     "苹果 CMS 视频采集搭建/MacCMS-系统架构与操作指南.tldraw",
     "苹果 CMS 视频采集搭建/Tldraw 2026-08-12 2.04下午.md",
     "苹果 CMS 视频采集搭建/MacCMS-系统架构与操作指南.tldr",
-    "苹果 CMS 视频采集搭建/MacCMS-VPS-运维信息.md",
     "苹果 CMS 视频采集搭建/MacCMS-系统架构与操作指南.tldraw.tmp-21254",
     "苹果 CMS 视频采集搭建/未命名.md",
     "未命名.base",
