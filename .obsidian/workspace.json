@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2599badd505a208c",
+        "id": "8267c0a72567a2af",
         "type": "tabs",
         "children": [
           {
-            "id": "22c607a5fe7b49ed",
+            "id": "83972371d47c0ef2",
             "type": "leaf",
             "state": {
               "type": "bases",
               "state": {
-                "file": "未命名.base",
+                "file": "未命名 1.base",
                 "viewName": "表格"
               },
               "icon": "lucide-table",
-              "title": "未命名"
+              "title": "未命名 1"
             }
           }
         ]
@@ -157,14 +157,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "d5078894ac084745",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,10 +189,11 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "22c607a5fe7b49ed",
+  "active": "83972371d47c0ef2",
   "lastOpenFiles": [
-    "未命名.md",
+    "未命名 1.base",
     "未命名.base",
+    "未命名.md",
     "投资/Price Action 日内交易学习总纲.tldr",
     "Tldraw 2026-08-17 2.01下午.md",
     "投资/SpaceX.md",
@@ -195,7 +205,6 @@
     "苹果 CMS 视频采集搭建/MacCMS-系统架构与操作指南.tldraw.tmp-21254",
     "苹果 CMS 视频采集搭建/未命名.md",
     "总览.canvas",
-    "未命名 1.base",
     "未命名.canvas",
     "Excalidraw/Drawing 2026-08-12 14.05.12.excalidraw.md",
     "Excalidraw/Drawing 2026-08-12 14.03.59.excalidraw.md",
