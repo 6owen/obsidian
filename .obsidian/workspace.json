@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8267c0a72567a2af",
+        "id": "347f76f5513b5cc2",
         "type": "tabs",
         "children": [
           {
-            "id": "83972371d47c0ef2",
+            "id": "00a90ee82a7c6c1c",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名 1.base",
-                "viewName": "表格"
+                "file": "3D地图制作/🍔 3D地形.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名 1"
+              "icon": "lucide-file",
+              "title": "🍔 3D地形"
             }
           }
         ]
@@ -167,16 +168,28 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "cfc4d00c074eef7d",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 389.62109375
   },
   "left-ribbon": {
     "hiddenItems": {
+      "command-palette:打开命令面板": false,
+      "ghostty-terminal:Open terminal": false,
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
@@ -185,49 +198,52 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "tldraw:Create new tldrawing": false
+      "tldraw:Create new tldrawing": false,
+      "copilot:Open Copilot Agent Chat": false,
+      "agent-client:Open agent client": false,
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "83972371d47c0ef2",
+  "active": "f6323fc5d23549f4",
   "lastOpenFiles": [
-    "未命名 1.base",
-    "未命名.base",
+    "日常/阿里云服务器/🍔 阿里云服务器操作.md",
+    "日常/🍔 油猴脚本.md",
+    "日常/🍔 前端开发.md",
+    "日常/🍔 NVM.md",
+    "日常/🍔 Mac 使用.md",
+    "日常/🍔 JS 网站脚本.md",
+    "日常/🍔 FFmpeg.md",
+    "随笔/什么是正向代理，什么是反向代理.md",
+    "随笔/前端 AI.md",
+    "copilot/skills/obsidian-cli/SKILL.md",
+    "copilot/skills/obsidian-cli/LICENSE",
+    "copilot/skills/obsidian-cli",
+    "copilot/skills/json-canvas/SKILL.md",
+    "copilot/skills/json-canvas/LICENSE",
+    "copilot/skills/json-canvas/references/EXAMPLES.md",
+    "copilot/skills/json-canvas/references",
+    "copilot/skills/json-canvas",
+    "copilot/skills/obsidian-bases/SKILL.md",
+    "copilot/skills/obsidian-bases/LICENSE",
+    "copilot/skills/obsidian-bases/references/EXAMPLES.md",
+    "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
+    "copilot/skills/obsidian-bases/references",
+    "copilot/skills/obsidian-bases",
+    "copilot/skills/obsidian-markdown/SKILL.md",
+    "copilot/skills/obsidian-markdown/LICENSE",
+    "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
+    "copilot/skills/obsidian-markdown/references/EMBEDS.md",
+    "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
+    "copilot/skills/obsidian-markdown/references",
+    "copilot/skills/symposium-publish/SKILL.md",
+    "copilot/skills/copilot-fetch-x/SKILL.md",
+    "copilot/skills/copilot-youtube-transcript/SKILL.md",
+    "copilot/skills/copilot-read-pdf/SKILL.md",
+    "copilot/skills/copilot-web-fetch/SKILL.md",
+    "copilot/skills/copilot-web-search/SKILL.md",
     "未命名.md",
-    "投资/Price Action 日内交易学习总纲.tldr",
-    "Tldraw 2026-08-17 2.01下午.md",
-    "投资/SpaceX.md",
-    "苹果 CMS 视频采集搭建/MacCMS-系统架构与操作指南.tldraw",
-    "投资",
-    "苹果 CMS 视频采集搭建/MacCMS-VPS-运维信息.md",
-    "苹果 CMS 视频采集搭建/Tldraw 2026-08-12 2.04下午.md",
-    "苹果 CMS 视频采集搭建/MacCMS-系统架构与操作指南.tldr",
-    "苹果 CMS 视频采集搭建/MacCMS-系统架构与操作指南.tldraw.tmp-21254",
-    "苹果 CMS 视频采集搭建/未命名.md",
     "总览.canvas",
     "未命名.canvas",
-    "Excalidraw/Drawing 2026-08-12 14.05.12.excalidraw.md",
-    "Excalidraw/Drawing 2026-08-12 14.03.59.excalidraw.md",
-    "苹果 CMS 视频采集搭建",
-    "Prompt/AI 讲解知识点.md",
-    "Prompt/AI 软件流程.md",
-    "Prompt/生成金属校徽徽章.md",
-    "text.md",
-    "Prompt/files/text.md",
-    "Prompt/files",
-    "2026 安徽物理类（物化生）工科志愿调研报告.md",
-    "AI 应用/Web-to-API wrapping：.md",
-    "Agent",
-    "Prompt/生成插画.md",
-    "Prompt/破解模型指令.md",
-    "Prompt/生成一个 logo.md",
-    "Prompt/一句话解决codex切换供应商旧会话消失问题.md",
-    "Prompt/生成周易 64 卦.md",
-    "Prompt/生成中国画 - 踏雪寻梅.md",
-    "Prompt/东北雨姐本姐技术大拿.md",
-    "Prompt/网页设计 prompt 复古 windows.md",
-    "Prompt/网页设计 prompt sketch.md",
-    "Prompt/网页设计 react 技术栈.md",
     "日常/files/Pasted image 20241009173543.png",
     "日常/files/docker-vscode.gif",
     "日常/files/Pasted image 20241010161709.png",
