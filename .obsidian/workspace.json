@@ -11,14 +11,10 @@
             "id": "00a90ee82a7c6c1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3D地图制作/🍔 3D地形.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "🍔 3D地形"
+              "title": "新标签页"
             }
           }
         ]
@@ -155,8 +151,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -165,8 +161,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -175,8 +171,8 @@
             "state": {
               "type": "claudian-view",
               "state": {},
-              "icon": "bot",
-              "title": "Claudian"
+              "icon": "lucide-ghost",
+              "title": "claudian-view"
             }
           }
         ],
@@ -189,19 +185,15 @@
   "left-ribbon": {
     "hiddenItems": {
       "command-palette:打开命令面板": false,
-      "ghostty-terminal:Open terminal": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
+      "obsidian-git:Open Git source control": false,
       "tldraw:Create new tldrawing": false,
-      "copilot:Open Copilot Agent Chat": false,
-      "agent-client:Open agent client": false,
-      "realclaudian:Open Claudian": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "f6323fc5d23549f4",
