@@ -4,20 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3e3a0679be114f34",
+        "id": "2599badd505a208c",
         "type": "tabs",
         "children": [
           {
-            "id": "6e77133d3473118e",
+            "id": "22c607a5fe7b49ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
+              "icon": "lucide-table",
               "title": "未命名"
             }
           }
@@ -181,9 +180,10 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "6e77133d3473118e",
+  "active": "22c607a5fe7b49ed",
   "lastOpenFiles": [
     "未命名.md",
+    "未命名.base",
     "投资/Price Action 日内交易学习总纲.tldr",
     "Tldraw 2026-08-17 2.01下午.md",
     "投资/SpaceX.md",
@@ -194,7 +194,6 @@
     "苹果 CMS 视频采集搭建/MacCMS-系统架构与操作指南.tldr",
     "苹果 CMS 视频采集搭建/MacCMS-系统架构与操作指南.tldraw.tmp-21254",
     "苹果 CMS 视频采集搭建/未命名.md",
-    "未命名.base",
     "总览.canvas",
     "未命名 1.base",
     "未命名.canvas",
@@ -220,7 +219,6 @@
     "Prompt/网页设计 prompt 复古 windows.md",
     "Prompt/网页设计 prompt sketch.md",
     "Prompt/网页设计 react 技术栈.md",
-    "Prompt/网页设计 ux-ui-pro.md",
     "日常/files/Pasted image 20241009173543.png",
     "日常/files/docker-vscode.gif",
     "日常/files/Pasted image 20241010161709.png",
