@@ -39,7 +39,7 @@ updated: 2026-08-18
 
 ## 相关文件
 
+- [[LLM Wiki 使用指南]]
 - [[schema|记忆系统结构规则]]
 - [[wiki/index|Wiki 索引]]
 - [[wiki/overview|Wiki 总览]]
-

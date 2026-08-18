@@ -89,12 +89,14 @@ status: draft | reviewed
 - `obsidian/.opencode/`
 - `obsidian/copilot/`
 - `AGENTS.md`
+- `LLM Wiki 使用指南.md`
 - `purpose.md`
 - `schema.md`
 - `obsidian/README.md`
 
 ## 相关文件
 
+- [[LLM Wiki 使用指南]]
 - [[purpose|个人记忆系统目标]]
 - [[wiki/index|Wiki 索引]]
 - [[wiki/log|Wiki 变更日志]]
