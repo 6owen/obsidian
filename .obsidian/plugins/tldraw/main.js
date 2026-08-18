@@ -139125,6 +139125,10 @@ function useTldrawAppEffects({
   }, [editor, settings]);
 }
 
+// src/tldraw/license.ts
+init_define_import_meta();
+var TLDRAW_LICENSE_KEY = "tldraw-tldraw-2027-08-12/WyI5N2lFVC1WTiIsWyJeYXBwOi8vb2JzaWRpYW5cXC5tZChbOi9dfCQpIl0sNDEsIjIwMjctMDgtMTIiXQ.00JZlr2ebqjPfAmvg3cAq4yDUX6bYheyzH5w3wdCKA0gtptldg/bvEj0hboLD6rtAXwD/zgOicTHPhlXqmWXRw";
+
 // src/tldraw/ui-overrides.ts
 init_define_import_meta();
 var import_obsidian5 = require("obsidian");
@@ -139960,7 +139964,7 @@ var TldrawApp = ({
         autoFocus: false,
         onMount: setAppState,
         tools,
-        licenseKey: "tldraw-tldraw-2026-07-10/WyIyU3h6ZzhTZyIsWyIqLnRsZHJhdy5jb20iLCIqLnRsZHJhdy5kZXYiLCIqLnRsZHJhdy5jbHViIiwiKi50bGRyYXcud29ya2Vycy5kZXYiXSw5LCIyMDI2LTA3LTEwIl0.+21jrvz5ZFmIvvA/DusCcnFV6Ab1iQQYR+INTqw/i/MmZe/5I/lhdLtqm9nprkQ1MfWL2PeyBmQui1+rjoQS1w"
+        licenseKey: TLDRAW_LICENSE_KEY
       }
     )
   );

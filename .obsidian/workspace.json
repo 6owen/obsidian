@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "29e3028d2481e5fa",
+        "id": "3e3a0679be114f34",
         "type": "tabs",
         "children": [
           {
-            "id": "001553043064e1d1",
+            "id": "6e77133d3473118e",
             "type": "leaf",
             "state": {
-              "type": "tldraw-view",
-              "state": {
-                "file": "Tldraw 2026-08-17 2.01下午.md"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tldraw 2026-08-17 2.01下午"
+              "title": "新标签页"
             }
           }
         ]
@@ -179,10 +177,10 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "001553043064e1d1",
+  "active": "6e77133d3473118e",
   "lastOpenFiles": [
-    "Tldraw 2026-08-17 2.01下午.md",
     "投资/Price Action 日内交易学习总纲.tldr",
+    "Tldraw 2026-08-17 2.01下午.md",
     "投资/SpaceX.md",
     "苹果 CMS 视频采集搭建/MacCMS-系统架构与操作指南.tldraw",
     "投资",
@@ -218,7 +216,6 @@
     "Prompt/网页设计 prompt sketch.md",
     "Prompt/网页设计 react 技术栈.md",
     "Prompt/网页设计 ux-ui-pro.md",
-    "日常/🍔 前端开发.md",
     "日常/files/Pasted image 20241009173543.png",
     "日常/files/docker-vscode.gif",
     "日常/files/Pasted image 20241010161709.png",
