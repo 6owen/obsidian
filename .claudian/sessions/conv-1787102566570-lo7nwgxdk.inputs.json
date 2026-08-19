@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1787102566570-lo7nwgxdk",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787102566788-lafcgsp",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1787102566555-0p5ys2h",
+      "timestamp": 1787102566555,
+      "rawDisplayText": "加载一下我的记忆库",
+      "canonicalText": "加载一下我的记忆库",
+      "images": [],
+      "contentDigest": "cfc0f0573a6c1807e817e6186c915059a8e5732b40fa3778ed5da9ca1473aa1b",
+      "providerUserMessageId": "01a0179d-5e91-71c3-8b51-0c85deed2bc9",
+      "providerAssistantMessageId": "msg_0d4b02fd55113900016a8505e5b5948191911f46616a9ecd65"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787102907810-aaj0rxy",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1787102907805-wl9d1vj",
+      "timestamp": 1787102907805,
+      "rawDisplayText": "我现在想写 agent 开发过程中的经验。我准备从 0 到一这样实现一个 agent . 那我现在应该怎么创建目录开发？",
+      "canonicalText": "我现在想写 agent 开发过程中的经验。我准备从 0 到一这样实现一个 agent . 那我现在应该怎么创建目录开发？",
+      "images": [],
+      "contentDigest": "3f2b3a1284350ad3078f179e60140406fa5557f7a253dd45fd937f584e15f7e9",
+      "providerUserMessageId": "01a017a2-501f-7123-9281-90c7b64784c3",
+      "providerAssistantMessageId": "msg_0d4b02fd55113900016a8506e14bc0819199342fa4fdfb84a0"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787103045691-4862nyo",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1787103045685-n5fonf1",
+      "timestamp": 1787103045685,
+      "rawDisplayText": "你先帮我创建一个目录，然后里面有一个大纲文件，我先看大纲，后面我再自己写",
+      "canonicalText": "你先帮我创建一个目录，然后里面有一个大纲文件，我先看大纲，后面我再自己写",
+      "images": [],
+      "contentDigest": "0258680226b13ef2c6e5153b4ae3b385580cc1bd608aecbe2b9c5cffad18bde6",
+      "providerUserMessageId": "01a017a4-6a1c-7120-8077-aac84be4e286",
+      "providerAssistantMessageId": "msg_0d4b02fd55113900016a8507a280388191bd8dbe5bad8757f8"
+    }
+  ]
+}

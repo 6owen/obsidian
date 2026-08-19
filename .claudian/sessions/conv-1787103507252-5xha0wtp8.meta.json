@@ -1,0 +1,27 @@
+{
+  "id": "conv-1787103507252-5xha0wtp8",
+  "providerId": "codex",
+  "title": "给我看一下「https://github",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1787103507264,
+  "lastActivityAt": 1787103698531,
+  "sessionId": "01a017ab-75eb-7722-878f-50f5fa3634ca",
+  "selectedModel": "gpt-5.6-sol",
+  "providerState": {
+    "threadId": "01a017ab-75eb-7722-878f-50f5fa3634ca",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "/Users/wangwenbo/.codex/sessions/2026/08/19/rollout-2026-08-19T09-38-27-01a017ab-75eb-7722-878f-50f5fa3634ca.jsonl",
+    "transcriptRootPath": "/Users/wangwenbo/.codex/sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "usage": {
+    "inputTokens": 40510,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30464,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 40510,
+    "percentage": 16,
+    "model": "gpt-5.6-sol"
+  }
+}

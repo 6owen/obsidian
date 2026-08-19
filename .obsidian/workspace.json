@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "f9e553072dd2b23e",
+        "id": "84912e8a0d47f54e",
         "type": "tabs",
         "children": [
           {
-            "id": "758d69ea64db9497",
+            "id": "1624916edba958ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/AI 应用/Agent 开发/Agent 从 0 到 1 开发大纲.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Agent 从 0 到 1 开发大纲"
             }
           }
         ]
@@ -76,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 272.34765625
   },
   "right": {
     "id": "538a10e127af2724",
@@ -151,8 +165,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -161,8 +175,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -180,8 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.62109375,
-    "collapsed": true
+    "width": 453.3046875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,14 +208,23 @@
       "obsidian-git:Open Git source control": false,
       "tldraw:Create new tldrawing": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "realclaudian:Open Claudian": false
+      "realclaudian:Open Claudian": false,
+      "lean-terminal:Open terminal": false
     }
   },
-  "active": "f6323fc5d23549f4",
+  "active": "1624916edba958ae",
   "lastOpenFiles": [
-    "wiki/synthesis/知识缺口与整理优先级.md",
+    "schema.md",
+    "purpose.md",
+    "obsidian/AI 应用/Agent 开发/Agent 从 0 到 1 开发大纲.md",
     "wiki/synthesis/AI 使用模式.md",
+    "obsidian/AI 应用/Agent 开发",
     "wiki/synthesis/兴趣、职业与产品方向.md",
+    "LLM Wiki 使用指南.md",
+    "CLAUDE.md",
+    "AGENTS.md",
+    "obsidian/3D地图制作/🍔 3D地形.md",
+    "wiki/synthesis/知识缺口与整理优先级.md",
     "wiki/synthesis/学习与项目轨迹 2024-2026.md",
     "wiki/synthesis/个人技术能力图谱.md",
     "wiki/decisions/2024-06 离开国企岗位.md",
@@ -219,13 +241,6 @@
     "wiki/concepts/敏感信息治理.md",
     "wiki/concepts/自动化脚本与运行环境.md",
     "wiki/concepts/AI 辅助内容与产品工作流.md",
-    "wiki/concepts/Prompt 设计.md",
-    "wiki/concepts/行测资料分析四大模型.md",
-    "wiki/concepts/算法与数据结构.md",
-    "wiki/concepts/前端工程化.md",
-    "wiki/concepts/JavaScript 核心机制.md",
-    "wiki/concepts/地图数据与三维地形工作流.md",
-    "wiki/concepts/UV 坐标与纹理采样.md",
     "wiki/entities",
     "wiki/synthesis",
     "wiki/sources",
@@ -239,7 +254,6 @@
     "obsidian/面试/八股/Pasted image 20240506135205.png",
     "obsidian/面试/八股/Pasted image 20240506112206.png",
     "obsidian/面试/八股/Pasted image 20240506111326.png",
-    "obsidian/面试/八股",
     "obsidian/行测/资料分析/files/Pasted image 20240828145859.png",
     "obsidian/行测/资料分析/files/Pasted image 20240828095408.png",
     "obsidian/行测/资料分析/files/Pasted image 20240828094654.png",

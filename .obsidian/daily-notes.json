@@ -1,5 +1,5 @@
 {
   "autorun": false,
-  "template": "日记/0.日记模板",
-  "folder": "日记"
+  "template": "obsidian/日记/0.日记模板.md",
+  "folder": "obsidian/日记"
 }

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1787103507252-5xha0wtp8",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787103507288-827cb0q",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1787103507248-rqi7kgg",
+      "timestamp": 1787103507248,
+      "rawDisplayText": "给我看一下「https://github.com/sdkasper/lean-obsidian-terminal 」这个插件是干嘛的？",
+      "canonicalText": "给我看一下「https://github.com/sdkasper/lean-obsidian-terminal 」这个插件是干嘛的？",
+      "images": [],
+      "contentDigest": "2cb74cc6018eba49f840e8e18c2240046ab9b0cd8c9ead04d76d3a8945ac7a93",
+      "providerUserMessageId": "01a017ab-b9e2-7483-a96f-d1f045fad19f",
+      "providerAssistantMessageId": "msg_0bbcf6814b38e0ea016a8509c502008191b458d50a76fc57dc"
+    }
+  ]
+}

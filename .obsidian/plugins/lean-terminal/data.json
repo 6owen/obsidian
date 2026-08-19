@@ -1,0 +1,101 @@
+{
+  "shellPath": "",
+  "shellPathWin": "",
+  "shellPathMac": "",
+  "shellPathLinux": "",
+  "startupCommand": "",
+  "fontSize": 14,
+  "fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+  "lineHeight": 1,
+  "theme": "auto",
+  "backgroundColor": "",
+  "cursorBlink": true,
+  "cursorStyle": "block",
+  "copyOnSelect": false,
+  "scrollback": 5000,
+  "ribbonIcon": "terminal",
+  "defaultLocation": "bottom",
+  "notifyOnCompletion": false,
+  "notificationSound": "beep",
+  "notificationVolume": 50,
+  "searchShortcut": "Ctrl+Alt+F",
+  "persistBuffer": true,
+  "recentSessionsMax": 10,
+  "recentSessions": [
+    {
+      "name": "Terminal 1",
+      "color": "",
+      "cwd": "/Users/wangwenbo/Documents/wangwenbo/Mine/my-obsidian",
+      "bufferSerial": "\r\n\u001b[36;1mmy-obsidian\u001b[0m on \u001b[35;1m main\u001b[0m \u001b[31;1m[!?]\u001b[0m on \u001b[34;1m☁️  wangwenbo110@gmail.com\u001b[0m \r\n\u001b[32;1m❯\u001b[0m ls\r\nAGENTS.md\r\nCLAUDE.md\r\nLLM Wiki ????????????.md\r\ncopilot\r\nobsidian\r\npurpose.md\r\nschema.md\r\nwiki\r\n\r\n\u001b[36;1mmy-obsidian\u001b[0m on \u001b[35;1m main\u001b[0m \u001b[31;1m[!?]\u001b[0m on \u001b[34;1m☁️  wangwenbo110@gmail.com\u001b[0m \r\n\u001b[32;1m❯\u001b[0m cat CLAUDE.md \r\n本仓库的 AI 规约以 /AGENTS.md 为唯一权威来源，通过下方导入自动加载：\r\n\r\n@AGENTS.md\r\n\r\nClaude 在本仓库工作时，先遵守 /AGENTS.md。\r\n进入任意子目录后，继续遵守该目录的 .folder.md。\r\n修改任意可注释文件后，继续遵守该文件 Header 的同步要求。\r\n\r\n\u001b[36;1mmy-obsidian\u001b[0m on \u001b[35;1m main\u001b[0m \u001b[31;1m[!?]\u001b[0m on \u001b[34;1m☁️  wangwenbo110@gmail.com\u001b[0m \r\n\u001b[32;1m❯\u001b[0m              \u001b[13D\u001b[?2004h",
+      "closedAt": 1787103525040
+    },
+    {
+      "name": "Terminal 1",
+      "color": "",
+      "cwd": "/Users/wangwenbo/Documents/wangwenbo/Mine/my-obsidian",
+      "bufferSerial": "\r\n\u001b[36;1mmy-obsidian\u001b[0m on \u001b[35;1m main\u001b[0m \u001b[31;1m[!?]\u001b[0m on \u001b[34;1m☁️  wangwenbo110@gmail.com\u001b[0m \r\n\u001b[32;1m❯\u001b[0m \u001b[?2004h",
+      "closedAt": 1787103378638
+    },
+    {
+      "name": "Terminal 1",
+      "color": "",
+      "cwd": "/Users/wangwenbo/Documents/wangwenbo/Mine/my-obsidian",
+      "bufferSerial": "\r\n\u001b[33mTerminal binaries not installed.\r\n\u001b[0mGo to Settings → Terminal to download them.\u001b[1B\u001b[43D",
+      "closedAt": 1787103323154
+    }
+  ],
+  "enableClaudeIntegration": false,
+  "claudeSessionsDir": "",
+  "claudeRegistryPath": "claude-sessions.md",
+  "claudeSessionsMax": 25,
+  "tabColorTintsBackground": true,
+  "tabColors": [
+    {
+      "name": "None",
+      "value": "",
+      "tintStrength": 0,
+      "builtin": true
+    },
+    {
+      "name": "Vermilion",
+      "value": "#FC3634",
+      "tintStrength": 12,
+      "builtin": true
+    },
+    {
+      "name": "Sky Blue",
+      "value": "#25D0F7",
+      "tintStrength": 12,
+      "builtin": true
+    },
+    {
+      "name": "Gold",
+      "value": "#FFD700",
+      "tintStrength": 12,
+      "builtin": true
+    },
+    {
+      "name": "Mint",
+      "value": "#18BC9C",
+      "tintStrength": 12,
+      "builtin": true
+    },
+    {
+      "name": "Azure",
+      "value": "#007BFF",
+      "tintStrength": 12,
+      "builtin": true
+    },
+    {
+      "name": "Purple",
+      "value": "#A991D4",
+      "tintStrength": 12,
+      "builtin": true
+    }
+  ],
+  "tabBarPosition": "top",
+  "wikiLinkAutocomplete": false,
+  "wikiLinkInsertMode": "wikilink",
+  "clickableFilePaths": true,
+  "readlineShortcuts": true
+}
