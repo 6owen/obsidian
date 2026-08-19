@@ -194,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.3046875
+    "width": 453.3046875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,8 +209,7 @@
       "obsidian-git:Open Git source control": false,
       "tldraw:Create new tldrawing": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "realclaudian:Open Claudian": false,
-      "lean-terminal:Open terminal": false
+      "realclaudian:Open Claudian": false
     }
   },
   "active": "1624916edba958ae",
