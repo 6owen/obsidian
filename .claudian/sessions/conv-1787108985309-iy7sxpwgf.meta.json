@@ -1,0 +1,28 @@
+{
+  "id": "conv-1787108985309-iy7sxpwgf",
+  "providerId": "codex",
+  "title": "我当前想做一个 agent 的记录和科普。",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1787108985336,
+  "lastActivityAt": 1787109652457,
+  "sessionId": "01a017ff-14e8-7f91-9e0b-c4da4ef98995",
+  "selectedModel": "gpt-5.6-sol",
+  "providerState": {
+    "threadId": "01a017ff-14e8-7f91-9e0b-c4da4ef98995",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "/Users/wangwenbo/.codex/sessions/2026/08/19/rollout-2026-08-19T11-09-48-01a017ff-14e8-7f91-9e0b-c4da4ef98995.jsonl",
+    "transcriptRootPath": "/Users/wangwenbo/.codex/sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "currentNote": "obsidian/AI 应用/Agent 开发/Agent 从 0 到 1 开发大纲.md",
+  "usage": {
+    "inputTokens": 45559,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 42752,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 45559,
+    "percentage": 18,
+    "model": "gpt-5.6-sol"
+  }
+}

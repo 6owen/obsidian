@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1787108985309-iy7sxpwgf",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787108985505-lnzi08i",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1787108985266-ofhi8m9",
+      "timestamp": 1787108985266,
+      "rawDisplayText": "我当前想做一个 agent 的记录和科普。\n我这里大纲需要修改一下。 \n\n1. 科普类的 大模型和 agent 的关系。 从 curl 调用，到 agent 封装\n2. rag 的一块内容，agentic search 和 rag ，还有 file 检索等，然后和 llm wiki 和 knowledge 知识库等\n3. 构建个人知识库，然后在 codex 或者 claude code 或者其他 agent 中使用. skills workflow mcp 等\n4. 构建个人 agent 一大块\n - 使用 vercel nai sdk \n - byok\n - memroy\n - supervisor 主子 agent 协作\n - skills mcp 等能力放到 agent 中使用\n - workflow编排。 workspace 等",
+      "canonicalText": "我当前想做一个 agent 的记录和科普。\n我这里大纲需要修改一下。 \n\n1. 科普类的 大模型和 agent 的关系。 从 curl 调用，到 agent 封装\n2. rag 的一块内容，agentic search 和 rag ，还有 file 检索等，然后和 llm wiki 和 knowledge 知识库等\n3. 构建个人知识库，然后在 codex 或者 claude code 或者其他 agent 中使用. skills workflow mcp 等\n4. 构建个人 agent 一大块\n - 使用 vercel nai sdk \n - byok\n - memroy\n - supervisor 主子 agent 协作\n - skills mcp 等能力放到 agent 中使用\n - workflow编排。 workspace 等",
+      "context": {
+        "currentNote": {
+          "path": "obsidian/AI 应用/Agent 开发/Agent 从 0 到 1 开发大纲.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "b0085c9bce8b88fa6799c6a4f9cb8504ea629217cda003449d1223c4014554fe",
+      "providerUserMessageId": "01a017ff-585d-7ba1-8100-78d4886482f6",
+      "providerAssistantMessageId": "msg_03fc6f938d6720ac016a851f80d65c87d08dd1de5cf7c3f028"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787109524139-4v28jfj",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1787109524133-kcppdmq",
+      "timestamp": 1787109524133,
+      "rawDisplayText": "在 obsidian/AI 应用/Agent 开发 目录下新建目录，按 index+title 的方式组合。\n然后 obsidian/AI 应用/Agent 开发 目录下留一个大纲的 md 文件。\n\n大纲应该 table 尽可能的结构化，能更像大纲。\n分部分目录暂时不要写太多内容，以后每个目录下面也会有一个子大纲的文件说明，或者在 metadata 中说明，看怎么省事怎么来",
+      "canonicalText": "在 obsidian/AI 应用/Agent 开发 目录下新建目录，按 index+title 的方式组合。\n然后 obsidian/AI 应用/Agent 开发 目录下留一个大纲的 md 文件。\n\n大纲应该 table 尽可能的结构化，能更像大纲。\n分部分目录暂时不要写太多内容，以后每个目录下面也会有一个子大纲的文件说明，或者在 metadata 中说明，看怎么省事怎么来",
+      "images": [],
+      "contentDigest": "9985a407218538770d7aa323ea9d54ac80e019c666d504feb48543518025c801",
+      "providerUserMessageId": "01a01807-44a1-77f0-a400-01c19b4f77a2",
+      "providerAssistantMessageId": "msg_03fc6f938d6720ac016a85210f82b887d097a04ce006794e06"
+    }
+  ]
+}

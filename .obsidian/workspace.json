@@ -16,16 +16,7 @@
                 "file": "obsidian/AI 应用/Agent 开发/Agent 从 0 到 1 开发大纲.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Agent 从 0 到 1 开发大纲"
@@ -90,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.34765625
+    "width": 296.25390625
   },
   "right": {
     "id": "538a10e127af2724",
@@ -194,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.3046875,
-    "collapsed": true
+    "width": 394.37890625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,8 +202,18 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "1624916edba958ae",
+  "active": "cfc4d00c074eef7d",
   "lastOpenFiles": [
+    "obsidian/AI 应用/Agent 开发/05-完整案例与复盘/index.md",
+    "obsidian/AI 应用/Agent 开发/05-完整案例与复盘",
+    "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/index.md",
+    "obsidian/AI 应用/Agent 开发/04-构建个人 Agent",
+    "obsidian/AI 应用/Agent 开发/03-构建个人知识库/index.md",
+    "obsidian/AI 应用/Agent 开发/03-构建个人知识库",
+    "obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统/index.md",
+    "obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统",
+    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/index.md",
+    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent",
     "schema.md",
     "purpose.md",
     "obsidian/AI 应用/Agent 开发/Agent 从 0 到 1 开发大纲.md",
@@ -236,20 +236,10 @@
     "wiki/projects/自定义地图与三维地形.md",
     "wiki/projects/Shader 下雨效果.md",
     "wiki/entities/Blender.md",
-    "wiki/entities/QGIS.md",
-    "wiki/entities/Three.js.md",
-    "wiki/concepts/敏感信息治理.md",
-    "wiki/concepts/自动化脚本与运行环境.md",
-    "wiki/concepts/AI 辅助内容与产品工作流.md",
     "wiki/entities",
     "wiki/synthesis",
     "wiki/sources",
     "wiki/projects",
-    "wiki/decisions",
-    "wiki/concepts",
-    "wiki",
-    "obsidian/面试/题目",
-    "obsidian/面试/数组",
     "obsidian/面试/八股/Pasted image 20240506133617.png",
     "obsidian/面试/八股/Pasted image 20240506135205.png",
     "obsidian/面试/八股/Pasted image 20240506112206.png",
