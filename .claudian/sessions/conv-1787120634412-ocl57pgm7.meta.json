@@ -1,0 +1,28 @@
+{
+  "id": "conv-1787120634412-ocl57pgm7",
+  "providerId": "codex",
+  "title": "当前这个 Obsidian 文档能不能实现类似这样的 code tab 样式？",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1787120634435,
+  "lastActivityAt": 1787120799284,
+  "sessionId": "01a018b0-cc3a-73a2-bff9-e87dcfa41716",
+  "selectedModel": "gpt-5.6-sol",
+  "providerState": {
+    "threadId": "01a018b0-cc3a-73a2-bff9-e87dcfa41716",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "/Users/wangwenbo/.codex/sessions/2026/08/19/rollout-2026-08-19T14-23-54-01a018b0-cc3a-73a2-bff9-e87dcfa41716.jsonl",
+    "transcriptRootPath": "/Users/wangwenbo/.codex/sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "currentNote": "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/index.md",
+  "usage": {
+    "inputTokens": 43692,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 36992,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 43692,
+    "percentage": 17,
+    "model": "gpt-5.6-sol"
+  }
+}
