@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#ffffff"/>
+
+  <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 340 C188 292, 226 254, 274 254 H446 C494 254, 532 292, 532 340 V484 C532 532, 494 570, 446 570 H338 L268 646 L282 570 H274 C226 570, 188 532, 188 484 Z"/>
+  </g>
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" fill="#111111">
+    <text x="360" y="390" font-size="40" text-anchor="middle" font-weight="600">Chat</text>
+    <text x="360" y="448" font-size="28" text-anchor="middle">问一次</text>
+    <text x="360" y="488" font-size="28" text-anchor="middle">答一次</text>
+  </g>
+
+  <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M742 190 C752 144, 1004 140, 1026 189 L1058 463 C1054 513, 762 517, 738 467 Z"/>
+    <path d="M796 220 C842 202, 928 202, 977 221"/>
+    <path d="M814 254 C862 242, 910 242, 957 254"/>
+  </g>
+  <text x="897" y="392" font-size="42" text-anchor="middle" fill="#111111" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" font-weight="600">模型</text>
+
+  <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="1246" y="252" width="216" height="88" rx="18"/>
+    <rect x="1246" y="392" width="216" height="88" rx="18"/>
+    <rect x="1246" y="532" width="216" height="88" rx="18"/>
+  </g>
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" fill="#111111" font-size="30">
+    <text x="1354" y="307" text-anchor="middle">搜索</text>
+    <text x="1354" y="447" text-anchor="middle">文件</text>
+    <text x="1354" y="587" text-anchor="middle">写入</text>
+  </g>
+
+  <g transform="translate(1080 606)">
+    <path d="M0 62 C-8 19 22 -8 61 -5 C101 -1 120 29 113 71 C108 109 80 133 43 130 C11 126 -8 105 0 62 Z" fill="#111111"/>
+    <circle cx="47" cy="48" r="5" fill="#ffffff"/>
+    <circle cx="70" cy="48" r="5" fill="#ffffff"/>
+    <path d="M33 128 L26 169" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    <path d="M80 128 L90 167" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    <path d="M112 72 L170 24" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    <path d="M170 24 L172 56 L140 52" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
+
+  <g fill="none" stroke="#f28c28" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M530 414 C612 414, 665 408, 742 386"/>
+    <path d="M702 366 L744 382 L705 402"/>
+    <path d="M1058 386 C1142 356, 1188 318, 1246 296"/>
+    <path d="M1208 286 L1250 294 L1216 320"/>
+    <path d="M1058 418 C1140 424, 1188 430, 1246 436"/>
+    <path d="M1208 422 L1248 436 L1208 450"/>
+    <path d="M1058 448 C1142 490, 1188 536, 1246 576"/>
+    <path d="M1212 548 L1248 577 L1206 582"/>
+  </g>
+
+  <g fill="none" stroke="#4a89dc" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1246 606 C1176 678, 1086 714, 974 722 C824 734, 692 674, 640 566 C606 496, 614 420, 662 352"/>
+    <path d="M657 384 L668 344 L631 361"/>
+  </g>
+
+  <g font-family="Kaiti SC, STKaiti, serif" font-size="30">
+    <text x="628" y="146" fill="#e65050">不是换了模型</text>
+    <text x="628" y="186" fill="#4a89dc">而是加了工具和循环</text>
+    <text x="1160" y="746" fill="#f28c28">结果回传再继续</text>
+  </g>
+</svg>

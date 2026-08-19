@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e44e0e118ac8b2ab",
+        "id": "b5477829c47db064",
         "type": "tabs",
         "children": [
           {
-            "id": "792bcab82781f8e0",
+            "id": "2deb996c9a6d03b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/index.md",
+                "file": "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.01-从一次 Chat 调用到为什么需要 Agent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "01.01-从一次 Chat 调用到为什么需要 Agent"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.7421875
+    "width": 417.8125
   },
   "right": {
     "id": "538a10e127af2724",
@@ -202,14 +202,24 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "792bcab82781f8e0",
+  "active": "2deb996c9a6d03b7",
   "lastOpenFiles": [
+    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/assets/01-01-from-chat-to-agent-illustrations/01-same-model-more-context.excalidraw.md",
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.01-从一次 Chat 调用到为什么需要 Agent.md",
+    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01. 大纲.md",
+    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/assets/01-01-from-chat-to-agent-illustrations/03-chat-to-agent-loop.svg",
+    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/assets/01-01-from-chat-to-agent-illustrations/01-same-model-more-context.svg",
+    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.02-从一条 curl 请求开始.md",
+    "obsidian/测试/Cypress.md",
+    "obsidian/Tldraw 2026-08-17 2.01下午.md",
+    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/assets/01-01-from-chat-to-agent-illustrations/02-stateless-model-context-state.svg",
+    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/assets/01-01-from-chat-to-agent-illustrations",
+    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/assets",
+    "未命名.canvas",
+    "Excalidraw/Drawing 2026-08-19 17.15.36.excalidraw.md",
     "obsidian/AI 应用/Agent 开发/大纲 - Agent 从 0 到 1 开发大纲.md",
-    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/index.md",
     "obsidian/AI 应用/Agent 开发/未命名.base",
     "Excalidraw/Drawing 2026-08-19 13.36.11.excalidraw.md",
-    "未命名.canvas",
     "Excalidraw",
     "obsidian/AI 应用/Agent 开发/05-完整案例与复盘/index.md",
     "obsidian/AI 应用/Agent 开发/05-完整案例与复盘",
@@ -233,14 +243,6 @@
     "wiki/synthesis/学习与项目轨迹 2024-2026.md",
     "wiki/synthesis/个人技术能力图谱.md",
     "wiki/decisions/2024-06 离开国企岗位.md",
-    "wiki/projects/Web-to-API 包装构想.md",
-    "wiki/projects/前端交互作品集.md",
-    "wiki/projects/Postly.md",
-    "wiki/projects/B站探店视频信息提取.md",
-    "wiki/projects/ADB 自动化.md",
-    "wiki/projects/自定义地图与三维地形.md",
-    "wiki/entities",
-    "wiki/synthesis",
     "obsidian/面试/八股/Pasted image 20240506133617.png",
     "obsidian/面试/八股/Pasted image 20240506135205.png",
     "obsidian/面试/八股/Pasted image 20240506112206.png",
@@ -248,9 +250,6 @@
     "obsidian/行测/资料分析/files/Pasted image 20240828145859.png",
     "obsidian/行测/资料分析/files/Pasted image 20240828095408.png",
     "obsidian/行测/资料分析/files/Pasted image 20240828094654.png",
-    "obsidian/行测/资料分析/files/Pasted image 20240827220412.png",
-    "obsidian/行测/资料分析/files/Pasted image 20240827172042.png",
-    "obsidian/行测/资料分析/files/Pasted image 20240827095814.png",
     "obsidian/技术/TS.canvas",
     "obsidian/总览.canvas",
     "技术/TS.canvas",

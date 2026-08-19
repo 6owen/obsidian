@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#ffffff"/>
+
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" fill="#111111">
+    <text x="798" y="162" font-size="42" text-anchor="middle" font-weight="600">模型</text>
+  </g>
+
+  <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M670 196 C680 150, 932 145, 954 194 L986 468 C982 518, 690 522, 666 472 Z"/>
+    <path d="M724 226 C770 208, 856 208, 905 227"/>
+    <path d="M743 260 C790 248, 838 248, 885 260"/>
+  </g>
+
+  <g font-family="Kaiti SC, STKaiti, serif" font-size="30">
+    <text x="1118" y="168" fill="#e65050">模型自己不存</text>
+    <text x="1134" y="208" fill="#4a89dc">下次要重新喂</text>
+  </g>
+
+  <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="132" y="164" width="250" height="84" rx="14"/>
+    <rect x="132" y="286" width="250" height="84" rx="14"/>
+    <rect x="132" y="408" width="250" height="84" rx="14"/>
+    <rect x="132" y="530" width="250" height="84" rx="14"/>
+    <rect x="132" y="652" width="250" height="84" rx="14"/>
+  </g>
+
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" font-size="30" fill="#111111">
+    <text x="257" y="217" text-anchor="middle">历史消息</text>
+    <text x="257" y="339" text-anchor="middle">工具结果</text>
+    <text x="257" y="461" text-anchor="middle">检索资料</text>
+    <text x="257" y="583" text-anchor="middle">用户偏好</text>
+    <text x="257" y="705" text-anchor="middle">任务进度</text>
+  </g>
+
+  <g fill="none" stroke="#f28c28" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M384 208 C470 208, 548 214, 664 246"/>
+    <path d="M384 330 C474 330, 552 332, 664 302"/>
+    <path d="M384 452 C474 454, 556 444, 664 358"/>
+    <path d="M384 574 C484 572, 560 550, 664 414"/>
+    <path d="M384 696 C486 690, 566 650, 664 468"/>
+  </g>
+
+  <g fill="#111111">
+    <circle cx="151" cy="767" r="8"/>
+    <circle cx="168" cy="767" r="8"/>
+    <circle cx="185" cy="767" r="8"/>
+  </g>
+
+  <g transform="translate(432 612)">
+    <path d="M0 62 C-8 19 22 -8 61 -5 C101 -1 120 29 113 71 C108 109 80 133 43 130 C11 126 -8 105 0 62 Z" fill="#111111"/>
+    <circle cx="47" cy="48" r="5" fill="#ffffff"/>
+    <circle cx="70" cy="48" r="5" fill="#ffffff"/>
+    <path d="M33 128 L26 169" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    <path d="M80 128 L90 167" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    <path d="M112 72 L166 42" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    <path d="M135 38 L171 30 L160 66" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
+
+  <g fill="none" stroke="#4a89dc" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1002 255 C1082 278, 1124 328, 1125 392 C1126 478, 1060 545, 970 556"/>
+    <path d="M964 555 L994 530 L1000 570"/>
+  </g>
+
+  <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="1180" y="286" width="262" height="320" rx="22"/>
+    <path d="M1220 340 L1396 340"/>
+    <path d="M1220 392 L1378 392"/>
+    <path d="M1220 444 L1360 444"/>
+    <path d="M1220 496 L1388 496"/>
+    <path d="M1220 548 L1350 548"/>
+  </g>
+
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" fill="#111111">
+    <text x="1310" y="250" font-size="36" text-anchor="middle">外部状态</text>
+  </g>
+
+  <g font-family="Kaiti SC, STKaiti, serif" font-size="30">
+    <text x="1225" y="676" fill="#f28c28">记住的是系统</text>
+    <text x="1237" y="714" fill="#4a89dc">不是模型本身</text>
+  </g>
+</svg>
