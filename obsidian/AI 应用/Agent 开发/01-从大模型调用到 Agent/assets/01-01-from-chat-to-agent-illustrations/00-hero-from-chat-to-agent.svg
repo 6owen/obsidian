@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#ffffff"/>
+
+  <g font-family="Kaiti SC, STKaiti, serif" font-size="34">
+    <text x="188" y="154" fill="#e65050">问一次</text>
+    <text x="938" y="138" fill="#e65050">模型没换</text>
+    <text x="930" y="180" fill="#4a89dc">外面长出工具、状态、循环</text>
+    <text x="716" y="396" fill="#f28c28">从 Chat 长成 Agent</text>
+  </g>
+
+  <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M754 448 C804 434, 842 434, 892 446"/>
+    <path d="M860 426 L896 446 L856 462"/>
+  </g>
+
+  <g transform="translate(96 184)">
+    <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M28 56 L158 40 L176 128 L49 144 Z"/>
+      <path d="M62 76 L130 68"/>
+      <path d="M68 102 L138 94"/>
+    </g>
+    <text x="103" y="96" font-size="28" text-anchor="middle" fill="#111111" font-family="Kaiti SC, STKaiti, serif">curl</text>
+
+    <g transform="translate(170 52)">
+      <path d="M0 58 C-6 18 20 -8 58 -4 C96 1 113 28 108 65 C103 102 74 122 38 118 C8 113 -6 92 0 58 Z" fill="#111111"/>
+      <circle cx="42" cy="47" r="5" fill="#ffffff"/>
+      <circle cx="64" cy="47" r="5" fill="#ffffff"/>
+      <path d="M34 116 L26 152" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+      <path d="M72 117 L82 150" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+      <path d="M90 68 L146 52" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    </g>
+
+    <g fill="none" stroke="#f28c28" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M292 110 C354 116, 410 126, 486 154"/>
+      <path d="M452 136 L490 155 L448 168"/>
+    </g>
+
+    <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M492 40 C500 -8, 746 -8, 764 42 L792 322 C788 372, 520 376, 494 326 Z"/>
+      <path d="M548 76 C596 58, 684 58, 734 78"/>
+      <path d="M566 112 C616 100, 666 100, 716 112"/>
+    </g>
+    <text x="640" y="228" font-size="40" text-anchor="middle" fill="#111111" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" font-weight="600">模型</text>
+
+    <g fill="none" stroke="#f28c28" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M792 220 C852 218, 892 216, 952 218"/>
+      <path d="M916 200 L956 218 L916 236"/>
+    </g>
+
+    <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M970 156 C970 118, 1000 88, 1038 88 H1142 C1180 88, 1210 118, 1210 156 V254 C1210 292, 1180 322, 1142 322 H1086 L1028 388 L1038 322 H1038 C1000 322, 970 292, 970 254 Z"/>
+    </g>
+    <text x="1090" y="214" font-size="34" text-anchor="middle" fill="#111111" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif">回答</text>
+  </g>
+
+  <g transform="translate(836 150)">
+    <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M286 72 C296 22, 580 20, 602 72 L634 396 C628 454, 316 458, 290 404 Z"/>
+      <path d="M340 106 C392 86, 486 86, 542 108"/>
+      <path d="M360 144 C414 132, 468 132, 522 144"/>
+    </g>
+    <text x="458" y="284" font-size="42" text-anchor="middle" fill="#111111" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" font-weight="600">模型</text>
+
+    <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M24 486 L286 486"/>
+      <path d="M56 486 L38 560"/>
+      <path d="M258 486 L280 560"/>
+      <circle cx="104" cy="574" r="34"/>
+      <circle cx="234" cy="574" r="34"/>
+      <path d="M78 448 L128 374 L286 394 L302 468"/>
+      <path d="M114 374 L118 314 L194 326 L190 386"/>
+      <path d="M172 362 L176 300 L252 312 L248 376"/>
+      <path d="M226 370 L232 308 L308 322 L304 386"/>
+      <path d="M276 378 L280 316 L356 330 L352 394"/>
+      <path d="M128 374 L194 326"/>
+      <path d="M194 326 L252 312"/>
+      <path d="M252 312 L308 322"/>
+      <path d="M308 322 L352 330"/>
+    </g>
+
+    <g font-family="Kaiti SC, STKaiti, serif" font-size="24" fill="#111111">
+      <text x="154" y="344">history</text>
+      <text x="212" y="332">tools</text>
+      <text x="270" y="342">state</text>
+      <text x="320" y="354">MCP</text>
+    </g>
+
+    <g transform="translate(324 416)">
+      <path d="M0 68 C-8 23 20 -8 62 -4 C104 0 123 34 116 77 C110 117 80 140 42 136 C9 132 -8 111 0 68 Z" fill="#111111"/>
+      <circle cx="49" cy="52" r="5" fill="#ffffff"/>
+      <circle cx="74" cy="52" r="5" fill="#ffffff"/>
+      <path d="M34 134 L28 176" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+      <path d="M84 134 L96 174" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+      <path d="M110 78 L176 66" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    </g>
+
+    <g fill="none" stroke="#f28c28" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M360 456 C420 432, 452 400, 474 350"/>
+      <path d="M446 354 L476 346 L470 378"/>
+      <path d="M634 286 C698 286, 736 286, 796 286"/>
+      <path d="M760 268 L800 286 L760 304"/>
+    </g>
+
+    <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="812" y="190" width="208" height="192" rx="18"/>
+      <path d="M854 238 L980 238"/>
+      <path d="M854 284 L966 284"/>
+      <path d="M854 330 L986 330"/>
+      <path d="M854 222 L832 244"/>
+      <path d="M832 244 L844 256"/>
+    </g>
+    <text x="916" y="156" font-size="34" text-anchor="middle" fill="#111111" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif">结果</text>
+
+    <g fill="none" stroke="#4a89dc" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M1020 286 C1098 324, 1124 452, 1068 556 C1018 648, 888 692, 730 680 C556 668, 428 606, 360 520"/>
+      <path d="M388 540 L352 516 L394 508"/>
+    </g>
+    <text x="856" y="742" font-size="30" text-anchor="middle" fill="#4a89dc" font-family="Kaiti SC, STKaiti, serif">结果回传，再继续下一步</text>
+  </g>
+</svg>
