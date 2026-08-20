@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#ffffff"/>
+
+  <g font-family="Kaiti SC, STKaiti, serif" font-size="34">
+    <text x="214" y="132" fill="#4a89dc">演示时</text>
+    <text x="1188" y="132" fill="#e65050">真实使用时</text>
+    <text x="702" y="790" fill="#f28c28">问题不在会不会说，而在有没有找对</text>
+  </g>
+
+  <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="112" y="170" width="566" height="470" rx="24"/>
+    <rect x="928" y="170" width="566" height="470" rx="24"/>
+  </g>
+
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" fill="#111111">
+    <text x="394" y="214" font-size="36" text-anchor="middle">同一套 RAG 外壳</text>
+    <text x="1210" y="214" font-size="36" text-anchor="middle">一进生产就开始露底</text>
+  </g>
+
+  <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="166" y="278" width="182" height="86" rx="16"/>
+    <rect x="400" y="278" width="182" height="86" rx="16"/>
+    <rect x="286" y="454" width="220" height="92" rx="18"/>
+  </g>
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" fill="#111111" font-size="28">
+    <text x="257" y="332" text-anchor="middle">文档</text>
+    <text x="491" y="332" text-anchor="middle">检索</text>
+    <text x="396" y="512" text-anchor="middle">回答</text>
+  </g>
+  <g fill="none" stroke="#f28c28" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M350 322 C378 322, 392 322, 400 322"/>
+    <path d="M366 304 L402 322 L366 340"/>
+    <path d="M492 366 C488 406, 470 430, 432 452"/>
+    <path d="M416 422 L428 456 L394 446"/>
+  </g>
+  <g transform="translate(536 410)">
+    <path d="M0 62 C-8 19 22 -8 61 -5 C101 -1 120 29 113 71 C108 109 80 133 43 130 C11 126 -8 105 0 62 Z" fill="#111111"/>
+    <circle cx="47" cy="48" r="5" fill="#ffffff"/>
+    <circle cx="70" cy="48" r="5" fill="#ffffff"/>
+    <path d="M33 128 L26 169" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    <path d="M80 128 L90 167" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    <path d="M112 72 L162 48" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    <path d="M150 42 L178 44 L168 72" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
+  <g font-family="Kaiti SC, STKaiti, serif" font-size="30">
+    <text x="174" y="604" fill="#4a89dc">问题干净</text>
+    <text x="328" y="604" fill="#4a89dc">词也对得上</text>
+    <text x="506" y="604" fill="#4a89dc">看起来很聪明</text>
+  </g>
+
+  <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="988" y="268" width="146" height="72" rx="14"/>
+    <rect x="1178" y="248" width="160" height="72" rx="14"/>
+    <rect x="1042" y="380" width="160" height="72" rx="14"/>
+    <rect x="1232" y="386" width="176" height="72" rx="14"/>
+    <path d="M1098 340 C1118 372, 1126 392, 1132 430"/>
+    <path d="M1242 320 C1236 364, 1212 396, 1180 422"/>
+    <path d="M1206 452 C1230 482, 1260 502, 1310 516"/>
+  </g>
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" fill="#111111" font-size="24">
+    <text x="1061" y="314" text-anchor="middle">说法不一致</text>
+    <text x="1258" y="294" text-anchor="middle">答案分散</text>
+    <text x="1122" y="426" text-anchor="middle">噪音 chunk</text>
+    <text x="1320" y="432" text-anchor="middle">权限冲突</text>
+  </g>
+  <g fill="none" stroke="#e65050" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1090 520 C1136 538, 1190 548, 1250 550"/>
+    <path d="M1240 532 L1270 552 L1236 564"/>
+    <path d="M1284 548 C1338 550, 1386 548, 1440 532"/>
+    <path d="M1400 516 L1448 530 L1410 550"/>
+  </g>
+  <g transform="translate(950 494)">
+    <path d="M0 68 C-8 23 20 -8 62 -4 C104 0 123 34 116 77 C110 117 80 140 42 136 C9 132 -8 111 0 68 Z" fill="#111111"/>
+    <circle cx="49" cy="52" r="5" fill="#ffffff"/>
+    <circle cx="74" cy="52" r="5" fill="#ffffff"/>
+    <path d="M34 134 L28 176" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    <path d="M84 134 L96 174" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    <path d="M108 76 L170 24" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    <path d="M136 24 L174 24 L164 60" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
+  <g font-family="Kaiti SC, STKaiti, serif" font-size="30">
+    <text x="1004" y="730" fill="#e65050">不是模型变笨</text>
+    <text x="1182" y="730" fill="#e65050">而是链路露馅</text>
+    <text x="1332" y="730" fill="#4a89dc">检索 / 权限 / 更新 / 评估</text>
+  </g>
+</svg>
