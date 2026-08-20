@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#ffffff"/>
+  <g font-family="Kaiti SC, STKaiti, serif" font-size="32">
+    <text x="120" y="132" fill="#e65050">不分层，最后什么都会混</text>
+    <text x="1090" y="132" fill="#4a89dc">分层不是复杂，是分责</text>
+    <text x="612" y="790" fill="#f28c28">Raw → Index → Wiki → Memory</text>
+  </g>
+  <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="598" y="162" width="404" height="116" rx="22"/>
+    <rect x="548" y="320" width="504" height="116" rx="22"/>
+    <rect x="488" y="478" width="624" height="116" rx="22"/>
+    <rect x="438" y="636" width="724" height="116" rx="22"/>
+  </g>
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" fill="#111111">
+    <text x="800" y="230" text-anchor="middle" font-size="34" font-weight="600">Memory</text>
+    <text x="800" y="388" text-anchor="middle" font-size="34" font-weight="600">Wiki</text>
+    <text x="800" y="546" text-anchor="middle" font-size="34" font-weight="600">Index</text>
+    <text x="800" y="704" text-anchor="middle" font-size="34" font-weight="600">Raw</text>
+  </g>
+  <g transform="translate(262 544)">
+    <path d="M6 70 C-2 28 22 -4 64 0 C106 4 126 34 118 80 C112 118 82 142 44 138 C10 134 -8 112 6 70 Z" fill="#111111"/>
+    <circle cx="50" cy="52" r="5" fill="#ffffff"/>
+    <circle cx="74" cy="52" r="5" fill="#ffffff"/>
+    <path d="M32 136 L24 176" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    <path d="M82 136 L92 176" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    <path d="M112 76 L188 26" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    <rect x="176" y="0" width="86" height="54" rx="8" fill="none" stroke="#111111" stroke-width="6"/>
+  </g>
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" font-size="24">
+    <text x="202" y="460" fill="#4a89dc">小黑在搬层级</text>
+    <text x="1128" y="382" fill="#e65050">别把记忆塞回原文</text>
+  </g>
+  <g fill="none" stroke="#f28c28" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1062 700 C1194 650, 1232 592, 1166 548"/>
+    <path d="M1154 516 L1168 548 L1132 548"/>
+    <path d="M1014 542 C1134 498, 1170 438, 1124 392"/>
+    <path d="M1112 362 L1126 394 L1090 394"/>
+    <path d="M964 384 C1080 344, 1110 288, 1076 242"/>
+    <path d="M1062 214 L1078 244 L1042 246"/>
+  </g>
+</svg>

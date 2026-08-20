@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#ffffff"/>
+  <g font-family="Kaiti SC, STKaiti, serif" font-size="32">
+    <text x="116" y="132" fill="#e65050">别每次都临场发挥</text>
+    <text x="1136" y="132" fill="#4a89dc">把好做法封起来</text>
+    <text x="610" y="790" fill="#f28c28">Skills / Workflow / MCP 各干各的活</text>
+  </g>
+  <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="164" y="286" width="280" height="110" rx="18"/>
+    <rect x="660" y="286" width="280" height="110" rx="18"/>
+    <rect x="1156" y="286" width="280" height="110" rx="18"/>
+  </g>
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" fill="#111111">
+    <text x="304" y="352" text-anchor="middle" font-size="34" font-weight="600">Skill</text>
+    <text x="800" y="352" text-anchor="middle" font-size="34" font-weight="600">Workflow</text>
+    <text x="1296" y="352" text-anchor="middle" font-size="34" font-weight="600">MCP</text>
+  </g>
+  <g fill="none" stroke="#f28c28" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M446 340 H658"/>
+    <path d="M618 318 L660 340 L618 362"/>
+    <path d="M942 340 H1154"/>
+    <path d="M1114 318 L1156 340 L1114 362"/>
+  </g>
+  <g transform="translate(720 520)">
+    <path d="M8 82 C-4 34 18 -2 68 0 C120 2 148 40 142 90 C138 142 102 170 52 164 C18 160 -6 126 8 82 Z" fill="#111111"/>
+    <circle cx="55" cy="59" r="5" fill="#ffffff"/>
+    <circle cx="81" cy="59" r="5" fill="#ffffff"/>
+    <path d="M46 162 L34 206" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    <path d="M92 162 L108 208" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <text x="228" y="496" font-size="24" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" fill="#4a89dc">怎么做</text>
+  <text x="734" y="496" font-size="24" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" fill="#e65050">按顺序做</text>
+  <text x="1238" y="496" font-size="24" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" fill="#4a89dc">连外部能力</text>
+</svg>

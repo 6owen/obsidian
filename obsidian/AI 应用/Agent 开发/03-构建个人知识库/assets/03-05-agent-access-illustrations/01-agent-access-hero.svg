@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#ffffff"/>
+  <g font-family="Kaiti SC, STKaiti, serif" font-size="32">
+    <text x="120" y="132" fill="#e65050">不是给权限就够了</text>
+    <text x="1122" y="132" fill="#4a89dc">还要给入口和规则</text>
+    <text x="666" y="790" fill="#f28c28">先读入口 → 先查 Wiki → 再回原文</text>
+  </g>
+  <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="130" y="276" width="250" height="92" rx="16"/>
+    <rect x="486" y="276" width="250" height="92" rx="16"/>
+    <rect x="842" y="276" width="250" height="92" rx="16"/>
+    <rect x="1198" y="276" width="250" height="92" rx="16"/>
+  </g>
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" fill="#111111" font-size="28">
+    <text x="255" y="332" text-anchor="middle">入口页</text>
+    <text x="611" y="332" text-anchor="middle">Wiki</text>
+    <text x="967" y="332" text-anchor="middle">原始来源</text>
+    <text x="1323" y="332" text-anchor="middle">回答</text>
+  </g>
+  <g fill="none" stroke="#f28c28" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M382 322 H484"/>
+    <path d="M444 300 L486 322 L444 344"/>
+    <path d="M738 322 H840"/>
+    <path d="M800 300 L842 322 L800 344"/>
+    <path d="M1094 322 H1196"/>
+    <path d="M1156 300 L1198 322 L1156 344"/>
+  </g>
+  <g transform="translate(664 516)">
+    <path d="M8 82 C-4 34 18 -2 68 0 C120 2 148 40 142 90 C138 142 102 170 52 164 C18 160 -6 126 8 82 Z" fill="#111111"/>
+    <circle cx="55" cy="59" r="5" fill="#ffffff"/>
+    <circle cx="81" cy="59" r="5" fill="#ffffff"/>
+    <path d="M46 162 L34 206" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    <path d="M92 162 L108 208" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    <path d="M136 82 L206 44" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    <path d="M198 24 L254 24 L254 112" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="582" y="486" font-size="24" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" fill="#4a89dc">小黑在看路由表</text>
+  <text x="1038" y="560" font-size="24" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" fill="#e65050">关键问题要回原文</text>
+</svg>

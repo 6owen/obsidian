@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#ffffff"/>
+  <g font-family="Kaiti SC, STKaiti, serif" font-size="32">
+    <text x="120" y="132" fill="#e65050">不是每次都重建世界</text>
+    <text x="1136" y="132" fill="#4a89dc">边更新，边体检</text>
+    <text x="676" y="790" fill="#f28c28">sync 让它继续长，lint 让它别长歪</text>
+  </g>
+  <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M146 470 H1020"/>
+    <path d="M142 470 C164 424, 202 396, 246 396 C290 396, 326 424, 348 470"/>
+    <path d="M340 470 C362 424, 400 396, 444 396 C488 396, 524 424, 546 470"/>
+    <path d="M538 470 C560 424, 598 396, 642 396 C686 396, 722 424, 744 470"/>
+  </g>
+  <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="118" y="276" width="170" height="88" rx="16"/>
+    <rect x="334" y="276" width="170" height="88" rx="16"/>
+    <rect x="550" y="276" width="170" height="88" rx="16"/>
+    <rect x="766" y="276" width="170" height="88" rx="16"/>
+  </g>
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" fill="#111111" font-size="26">
+    <text x="203" y="330" text-anchor="middle">新笔记</text>
+    <text x="419" y="330" text-anchor="middle">找受影响页</text>
+    <text x="635" y="330" text-anchor="middle">合并更新</text>
+    <text x="851" y="330" text-anchor="middle">写 log</text>
+  </g>
+  <g transform="translate(1056 270)">
+    <circle cx="182" cy="170" r="122" fill="none" stroke="#111111" stroke-width="6"/>
+    <circle cx="182" cy="170" r="72" fill="none" stroke="#111111" stroke-width="6"/>
+    <path d="M254 242 L332 320" stroke="#111111" stroke-width="8" stroke-linecap="round"/>
+    <path d="M136 160 L226 160" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    <path d="M182 116 L182 204" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(1216 534)">
+    <path d="M6 70 C-2 30 20 -2 60 0 C102 2 124 34 116 80 C110 116 82 140 44 136 C12 132 -8 112 6 70 Z" fill="#111111"/>
+    <circle cx="48" cy="52" r="5" fill="#ffffff"/>
+    <circle cx="72" cy="52" r="5" fill="#ffffff"/>
+    <path d="M30 134 L20 176" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    <path d="M78 134 L88 176" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <text x="1188" y="262" font-size="24" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" fill="#4a89dc">lint 在看裂缝</text>
+  <text x="226" y="560" font-size="24" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" fill="#e65050">不要重复开新页</text>
+</svg>
