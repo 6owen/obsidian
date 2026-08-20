@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#ffffff"/>
+
+  <g font-family="Kaiti SC, STKaiti, serif" font-size="34">
+    <text x="166" y="154" fill="#e65050">模型自己知道一些</text>
+    <text x="1078" y="150" fill="#4a89dc">但真正要用的</text>
+    <text x="1088" y="192" fill="#4a89dc">常常在外面</text>
+    <text x="666" y="760" fill="#f28c28">外部知识被重新喂进来，AI 才像“知道了”</text>
+  </g>
+
+  <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M606 160 C616 112, 924 112, 944 164 L978 564 C972 620, 638 624, 612 570 Z"/>
+    <path d="M672 204 C730 182, 842 182, 904 206"/>
+    <path d="M694 248 C758 232, 822 232, 882 248"/>
+  </g>
+  <text x="780" y="430" font-size="46" text-anchor="middle" fill="#111111" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" font-weight="600">模型</text>
+
+  <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="106" y="260" width="240" height="92" rx="18"/>
+    <path d="M162 250 L188 196 L292 212 L306 262"/>
+  </g>
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" fill="#111111" font-size="28">
+    <text x="226" y="318" text-anchor="middle">参数知识</text>
+  </g>
+
+  <g fill="none" stroke="#f28c28" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M350 306 C438 300, 496 292, 626 266"/>
+    <path d="M586 246 L628 266 L590 286"/>
+  </g>
+
+  <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="1102" y="214" width="206" height="78" rx="14"/>
+    <rect x="1326" y="214" width="166" height="78" rx="14"/>
+    <rect x="1110" y="334" width="194" height="78" rx="14"/>
+    <rect x="1320" y="334" width="170" height="78" rx="14"/>
+    <rect x="1188" y="456" width="222" height="78" rx="14"/>
+  </g>
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" fill="#111111" font-size="26">
+    <text x="1205" y="264" text-anchor="middle">文件</text>
+    <text x="1409" y="264" text-anchor="middle">网页</text>
+    <text x="1207" y="384" text-anchor="middle">笔记</text>
+    <text x="1405" y="384" text-anchor="middle">数据库</text>
+    <text x="1299" y="506" text-anchor="middle">历史 / 记忆</text>
+  </g>
+
+  <g transform="translate(1006 516)">
+    <path d="M0 68 C-8 23 20 -8 62 -4 C104 0 123 34 116 77 C110 117 80 140 42 136 C9 132 -8 111 0 68 Z" fill="#111111"/>
+    <circle cx="49" cy="52" r="5" fill="#ffffff"/>
+    <circle cx="74" cy="52" r="5" fill="#ffffff"/>
+    <path d="M34 134 L28 176" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    <path d="M84 134 L96 174" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    <path d="M110 78 L168 46" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <g fill="none" stroke="#4a89dc" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1102 252 C1024 270, 968 282, 940 290"/>
+    <path d="M976 270 L938 290 L980 300"/>
+    <path d="M1110 374 C1028 366, 972 350, 944 334"/>
+    <path d="M982 326 L942 334 L972 360"/>
+    <path d="M1188 494 C1082 480, 998 446, 952 392"/>
+    <path d="M988 394 L948 388 L964 424"/>
+  </g>
+
+  <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="628" y="654" width="334" height="88" rx="18"/>
+  </g>
+  <text x="794" y="712" font-size="30" text-anchor="middle" fill="#111111" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif">当前上下文</text>
+</svg>
