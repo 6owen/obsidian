@@ -20,9 +20,9 @@ status: outline
 | --- | --- | --- | --- | --- |
 | 01 | [[01. 从大模型调用到 Agent\|从大模型调用到 Agent]] | LLM 如何逐步封装成 Agent？ | 单工具 Agent | 待写 |
 | 02 | [[obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统/index\|检索、RAG 与知识系统]] | Agent 如何获得参数之外的知识？ | 带引用的 Agentic Search | 待写 |
-| 03 | [[obsidian/AI 应用/Agent 开发/03-构建个人知识库/index\|构建个人知识库]] | 如何让 Codex、Claude Code 等 Agent 使用个人知识？ | 个人知识助手 | 待写 |
-| 04 | [[obsidian/AI 应用/Agent 开发/04-构建个人 Agent/index\|构建个人 Agent]] | 如何组合模型、记忆、工具、工作流与多 Agent？ | 可长期使用的个人 Agent | 待写 |
-| 05 | [[obsidian/AI 应用/Agent 开发/05-完整案例与复盘/index\|完整案例与复盘]] | 如何证明整个系统真的有效？ | 端到端案例与复盘 | 待写 |
+| 03 | [[03\|构建个人知识库]] | 如何让 Codex、Claude Code 等 Agent 使用个人知识？ | 个人知识助手 | 待写 |
+| 04 | [[04\|构建个人 Agent]] | 如何组合模型、记忆、工具、工作流与多 Agent？ | 可长期使用的个人 Agent | 待写 |
+| 05 | [[05\|完整案例与复盘]] | 如何证明整个系统真的有效？ | 端到端案例与复盘 | 待写 |
 
 ## 总体路线
 

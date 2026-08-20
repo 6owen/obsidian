@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#ffffff"/>
+
+  <g font-family="Kaiti SC, STKaiti, serif" font-size="32">
+    <text x="120" y="132" fill="#e65050">不是资料越多越好</text>
+    <text x="1088" y="134" fill="#4a89dc">重点是：能不能稳定使用</text>
+    <text x="620" y="788" fill="#f28c28">先分边界，再让 Agent 进来</text>
+  </g>
+
+  <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="96" y="214" width="326" height="442" rx="22"/>
+    <path d="M136 294 H384"/>
+    <path d="M136 384 H384"/>
+    <path d="M136 474 H384"/>
+    <path d="M136 564 H384"/>
+  </g>
+
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" fill="#111111">
+    <text x="258" y="260" text-anchor="middle" font-size="32" font-weight="600">原始资料堆</text>
+    <text x="258" y="346" text-anchor="middle" font-size="26">笔记</text>
+    <text x="258" y="436" text-anchor="middle" font-size="26">代码</text>
+    <text x="258" y="526" text-anchor="middle" font-size="26">文档</text>
+    <text x="258" y="616" text-anchor="middle" font-size="26">网页 / 记录</text>
+  </g>
+
+  <g transform="translate(482 334)">
+    <path d="M8 82 C-4 34 18 -2 68 0 C120 2 148 40 142 90 C138 142 102 170 52 164 C18 160 -6 126 8 82 Z" fill="#111111"/>
+    <circle cx="55" cy="59" r="5" fill="#ffffff"/>
+    <circle cx="81" cy="59" r="5" fill="#ffffff"/>
+    <path d="M46 162 L34 206" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    <path d="M92 162 L108 208" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    <path d="M136 82 L210 70" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    <path d="M196 48 L252 48 L252 138 C252 172 224 198 190 198 L134 198" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" font-size="24">
+    <text x="702" y="360" fill="#e65050">乱塞会很吵</text>
+    <text x="694" y="606" fill="#4a89dc">先守门、筛选、定边界</text>
+  </g>
+
+  <g fill="none" stroke="#f28c28" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M424 438 C482 438, 546 438, 632 438"/>
+    <path d="M592 416 L634 438 L592 460"/>
+  </g>
+
+  <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="840" y="232" width="300" height="112" rx="22"/>
+    <rect x="840" y="394" width="300" height="112" rx="22"/>
+    <rect x="840" y="556" width="300" height="112" rx="22"/>
+  </g>
+
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" fill="#111111">
+    <text x="990" y="300" text-anchor="middle" font-size="30">可读</text>
+    <text x="990" y="462" text-anchor="middle" font-size="30">可追溯</text>
+    <text x="990" y="624" text-anchor="middle" font-size="30">可维护</text>
+  </g>
+
+  <g fill="none" stroke="#f28c28" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M746 438 C786 438, 804 438, 836 438"/>
+    <path d="M796 416 L838 438 L796 460"/>
+  </g>
+
+  <g fill="none" stroke="#4a89dc" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1146 438 C1240 438, 1302 438, 1400 438"/>
+    <path d="M1360 416 L1402 438 L1360 460"/>
+  </g>
+
+  <g fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1428 238 C1498 230, 1534 270, 1518 340 L1486 610 C1478 658, 1434 694, 1386 686 C1344 680, 1312 642, 1322 592 L1352 320 C1362 272, 1388 242, 1428 238 Z"/>
+    <path d="M1366 318 C1406 292, 1456 292, 1492 320"/>
+    <path d="M1362 406 C1408 384, 1450 384, 1494 406"/>
+    <path d="M1358 496 C1410 474, 1454 474, 1496 496"/>
+  </g>
+  <text x="1424" y="612" text-anchor="middle" font-size="34" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" fill="#111111" font-weight="600">Agent</text>
+</svg>
