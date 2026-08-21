@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "975c69ef73ed83e1",
+        "id": "c5901dbc96ebcee0",
         "type": "tabs",
         "children": [
           {
-            "id": "608e216e56eda0db",
+            "id": "6f4d1db08c9aae17",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -202,14 +202,24 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "608e216e56eda0db",
+  "active": "6f4d1db08c9aae17",
   "lastOpenFiles": [
-    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.05-第一个可运行的 Agent.md",
+    "obsidian/Prompt/AI 讲解知识点.md",
+    "obsidian/Prompt/网页设计 prompt sketch.md",
+    "obsidian/Prompt/图片转成诗（带场景分析）.md",
+    "obsidian/Prompt/生成金属校徽徽章.md",
+    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01. 从大模型调用到 Agent.md",
+    "obsidian/Prompt/一句话解决codex切换供应商旧会话消失问题.md",
+    "obsidian/Prompt/生成一个 logo.md",
+    "obsidian/Prompt/生成插画.md",
+    "obsidian/Prompt/破解模型指令.md",
+    "obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统/index.md",
+    "obsidian/AI 应用/Agent 开发/大纲 - Agent 从 0 到 1 开发大纲.md",
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.04-Agent Loop.md",
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.03-从模型调用到工具调用.md",
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.02-从一条 curl 请求开始.md",
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.01-从一次 Chat 调用到为什么需要 Agent.md",
-    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01. 从大模型调用到 Agent.md",
+    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.05-第一个可运行的 Agent.md",
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/assets/01-01-from-chat-to-agent-illustrations/Tldraw 2026-08-21 2.01下午.md",
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/assets/01-01-from-chat-to-agent-illustrations/01-same-model-more-context.excalidraw.md",
     "obsidian/未命名 1.base",
@@ -224,16 +234,6 @@
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-06-skills-workflow-mcp-illustrations/01-skills-workflow-mcp-hero.excalidraw.md",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-05-agent-access-illustrations/01-agent-access-hero.excalidraw.md",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-04-sync-and-lint-illustrations/01-sync-lint-hero.excalidraw.md",
-    "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-03-obsidian-to-llm-wiki-illustrations/01-obsidian-to-wiki-hero.excalidraw.md",
-    "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-02-layered-kb-illustrations/01-layered-kb-hero.excalidraw.md",
-    "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-01-needs-boundaries-illustrations/01-needs-boundaries-hero.excalidraw.md",
-    "obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统/assets/02-08-boundaries-illustrations/01-boundaries-hero.excalidraw.md",
-    "obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统/assets/02-07-agentic-rag-illustrations/01-agentic-rag-hero.excalidraw.md",
-    "obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统/assets/02-06-rag-security-illustrations/01-rag-security-hero.excalidraw.md",
-    "obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统/assets/02-05-rag-ops-illustrations/01-rag-ops-hero.excalidraw.md",
-    "obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统/assets/02-04-retrieval-quality-illustrations/01-retrieval-quality-hero.excalidraw.md",
-    "obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统/assets/02-03-minimal-rag-illustrations/01-minimal-rag-pipeline.excalidraw.md",
-    "obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统/assets/02-02-rag-demo-production-illustrations/01-demo-vs-production-rag.excalidraw.md",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-07-personal-knowledge-assistant-illustrations/01-personal-knowledge-assistant-hero.svg",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-06-skills-workflow-mcp-illustrations/01-skills-workflow-mcp-hero.svg",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-05-agent-access-illustrations/01-agent-access-hero.svg",
