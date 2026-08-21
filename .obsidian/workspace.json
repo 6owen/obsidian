@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c5901dbc96ebcee0",
+        "id": "9bfed85b786b9cb2",
         "type": "tabs",
         "children": [
           {
-            "id": "6f4d1db08c9aae17",
+            "id": "3cf42eebad0afb02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01. 从大模型调用到 Agent.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "01. 从大模型调用到 Agent"
+              "title": "新标签页"
             }
           }
         ]
@@ -80,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.640625
+    "width": 350.171875
   },
   "right": {
     "id": "538a10e127af2724",
@@ -202,13 +198,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "6f4d1db08c9aae17",
+  "active": "3cf42eebad0afb02",
   "lastOpenFiles": [
+    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01. 从大模型调用到 Agent.md",
     "obsidian/Prompt/AI 讲解知识点.md",
     "obsidian/Prompt/网页设计 prompt sketch.md",
     "obsidian/Prompt/图片转成诗（带场景分析）.md",
     "obsidian/Prompt/生成金属校徽徽章.md",
-    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01. 从大模型调用到 Agent.md",
     "obsidian/Prompt/一句话解决codex切换供应商旧会话消失问题.md",
     "obsidian/Prompt/生成一个 logo.md",
     "obsidian/Prompt/生成插画.md",
