@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "643c57f5a8e1788c",
+        "id": "072a54aeba782d58",
         "type": "tabs",
         "children": [
           {
-            "id": "ad46125443718f4f",
+            "id": "e30a0af68e85fb3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.01-从一次 Chat 调用到为什么需要 Agent.md",
+                "file": "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.02-从一条 curl 请求开始.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.01-从一次 Chat 调用到为什么需要 Agent"
+              "title": "01.02-从一条 curl 请求开始"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.15234375
+    "width": 422.453125
   },
   "right": {
     "id": "538a10e127af2724",
@@ -202,8 +202,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f6323fc5d23549f4",
+  "active": "e30a0af68e85fb3f",
   "lastOpenFiles": [
+    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.01-从一次 Chat 调用到为什么需要 Agent.md",
+    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/assets/01-01-from-chat-to-agent-illustrations/00-hero-from-chat-to-agent.excalidraw.md",
+    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01. 从大模型调用到 Agent.md",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-07-personal-knowledge-assistant-illustrations/01-personal-knowledge-assistant-hero.excalidraw.md",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-06-skills-workflow-mcp-illustrations/01-skills-workflow-mcp-hero.excalidraw.md",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-05-agent-access-illustrations/01-agent-access-hero.excalidraw.md",
@@ -226,9 +229,6 @@
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/assets/01-01-from-chat-to-agent-illustrations/03-chat-to-agent-loop.excalidraw.md",
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/assets/01-01-from-chat-to-agent-illustrations/02-stateless-model-context-state.excalidraw.md",
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/assets/01-01-from-chat-to-agent-illustrations/01-same-model-more-context.excalidraw.md",
-    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/assets/01-01-from-chat-to-agent-illustrations/00-hero-from-chat-to-agent.excalidraw.md",
-    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01. 从大模型调用到 Agent.md",
-    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.01-从一次 Chat 调用到为什么需要 Agent.md",
     "obsidian/AI 应用/Agent 开发/大纲 - Agent 从 0 到 1 开发大纲.md",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-07-personal-knowledge-assistant-illustrations/01-personal-knowledge-assistant-hero.svg",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-06-skills-workflow-mcp-illustrations/01-skills-workflow-mcp-hero.svg",
