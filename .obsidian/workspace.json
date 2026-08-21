@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/AI 应用/Agent 开发/03-构建个人知识库/03.01-需求与边界.md",
+                "file": "obsidian/AI 应用/Agent 开发/大纲 - Agent 从 0 到 1 开发大纲.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03.01-需求与边界"
+              "title": "大纲 - Agent 从 0 到 1 开发大纲"
             }
           }
         ]
@@ -202,8 +202,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ad46125443718f4f",
+  "active": "f6323fc5d23549f4",
   "lastOpenFiles": [
+    "obsidian/AI 应用/Agent 开发/05-完整案例与复盘/05. 完整案例与复盘.md",
+    "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04. 构建个人 Agent.md",
+    "obsidian/AI 应用/Agent 开发/03-构建个人知识库/03. 构建个人知识库大纲.md",
+    "obsidian/AI 应用/Agent 开发/03-构建个人知识库/03.md",
+    "obsidian/AI 应用/Agent 开发/03-构建个人知识库/index.md",
+    "obsidian/AI 应用/Agent 开发/03-构建个人知识库/03.01-需求与边界.md",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-07-personal-knowledge-assistant-illustrations/01-personal-knowledge-assistant-hero.svg",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/03.07-个人知识助手.md",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-06-skills-workflow-mcp-illustrations/01-skills-workflow-mcp-hero.svg",
@@ -222,15 +228,9 @@
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-04-sync-and-lint-illustrations",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-03-obsidian-to-llm-wiki-illustrations",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-02-layered-kb-illustrations",
-    "obsidian/AI 应用/Agent 开发/03-构建个人知识库/03. 大纲.md",
-    "obsidian/AI 应用/Agent 开发/03-构建个人知识库/03.01-需求与边界.md",
-    "obsidian/AI 应用/Agent 开发/03-构建个人知识库/03.md",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-01-needs-boundaries-illustrations/01-needs-boundaries-hero.svg",
-    "obsidian/AI 应用/Agent 开发/03-构建个人知识库/index.md",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-01-needs-boundaries-illustrations",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets",
-    "obsidian/AI 应用/Agent 开发/05-完整案例与复盘/05.md",
-    "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.md",
     "obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统/02. 检索、RAG 与知识系统.md",
     "obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统/02.01-为什么需要外部知识.md",
     "obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统/02.08-RAG、Knowledge Base、Context、Memory 的边界.md",
@@ -239,7 +239,6 @@
     "obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统/assets/02-06-rag-security-illustrations/01-rag-security-hero.svg",
     "obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统/02.07-从单轮 RAG 到 Agentic RAG.md",
     "obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统/02.06-权限、安全与可追溯.md",
-    "obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统/assets/02-05-rag-ops-illustrations/01-rag-ops-hero.svg",
     "obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统/02.05-让 RAG 能长期跑下去.md",
     "obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统/02.04-让检索真正可用.md",
     "obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统/02.03-从最小可运行 RAG 开始.md",
