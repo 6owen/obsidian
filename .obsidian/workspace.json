@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.01-从一次 Chat 调用到为什么需要 Agent.md",
+                "file": "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04. 构建个人 Agent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.01-从一次 Chat 调用到为什么需要 Agent"
+              "title": "04. 构建个人 Agent"
             }
           }
         ]
@@ -204,6 +204,7 @@
   },
   "active": "56a2a886b2ef8dcc",
   "lastOpenFiles": [
+    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.01-从一次 Chat 调用到为什么需要 Agent.md",
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01. 从大模型调用到 Agent.md",
     "obsidian/软件/1. Rime 软件使用.md",
     "obsidian/软件/🍔  Mine.md",
@@ -225,7 +226,6 @@
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.04-Agent Loop.md",
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.03-从模型调用到工具调用.md",
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.02-从一条 curl 请求开始.md",
-    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.01-从一次 Chat 调用到为什么需要 Agent.md",
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.05-第一个可运行的 Agent.md",
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/assets/01-01-from-chat-to-agent-illustrations/Tldraw 2026-08-21 2.01下午.md",
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/assets/01-01-from-chat-to-agent-illustrations/01-same-model-more-context.excalidraw.md",
