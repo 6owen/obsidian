@@ -202,8 +202,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "56a2a886b2ef8dcc",
+  "active": "f6323fc5d23549f4",
   "lastOpenFiles": [
+    "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.02-构建跨 Agent 的通用 Memory.md",
+    "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.02-构建跨 Agent 的通用 Memory.md.tmp.16927.c59c1739990a",
+    "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-pi 与 Mastra 怎么选.md",
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.01-从一次 Chat 调用到为什么需要 Agent.md",
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01. 从大模型调用到 Agent.md",
     "obsidian/软件/1. Rime 软件使用.md",
@@ -231,8 +234,6 @@
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/assets/01-01-from-chat-to-agent-illustrations/01-same-model-more-context.excalidraw.md",
     "obsidian/未命名 1.base",
     "obsidian/未命名.base",
-    "obsidian/Excalidraw/Drawing 2024-05-06 13.50.43.excalidraw.md",
-    "Excalidraw/Drawing 2026-08-19 17.15.36.excalidraw.md",
     "obsidian/Excalidraw/Scripts",
     "obsidian/Excalidraw/assets",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-07-personal-knowledge-assistant-illustrations/01-personal-knowledge-assistant-hero.svg",
@@ -245,7 +246,6 @@
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-06-skills-workflow-mcp-illustrations",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-05-agent-access-illustrations",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-04-sync-and-lint-illustrations",
-    "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-03-obsidian-to-llm-wiki-illustrations",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-01-needs-boundaries-illustrations/01-needs-boundaries-hero.svg",
     "obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统/assets/02-08-boundaries-illustrations/01-boundaries-hero.svg",
     "obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统/assets/02-07-agentic-rag-illustrations/01-agentic-rag-hero.svg",
