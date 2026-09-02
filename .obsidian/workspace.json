@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04. 构建个人 Agent.md",
+                "file": "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.03-Memory 实现原理，谁在什么时候写记忆.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04. 构建个人 Agent"
+              "title": "04.03-Memory 实现原理，谁在什么时候写记忆"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.2109375
+    "width": 367.16796875
   },
   "right": {
     "id": "538a10e127af2724",
@@ -202,11 +202,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f6323fc5d23549f4",
+  "active": "56a2a886b2ef8dcc",
   "lastOpenFiles": [
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.02-构建跨 Agent 的通用 Memory.md",
-    "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.02-构建跨 Agent 的通用 Memory.md.tmp.16927.c59c1739990a",
+    "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.03-Memory 实现原理，谁在什么时候写记忆.md",
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-pi 与 Mastra 怎么选.md",
+    "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04. 构建个人 Agent.md",
+    "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.02-构建跨 Agent 的通用 Memory.md.tmp.16927.c59c1739990a",
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.01-从一次 Chat 调用到为什么需要 Agent.md",
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01. 从大模型调用到 Agent.md",
     "obsidian/软件/1. Rime 软件使用.md",
@@ -230,8 +232,6 @@
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.03-从模型调用到工具调用.md",
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.02-从一条 curl 请求开始.md",
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.05-第一个可运行的 Agent.md",
-    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/assets/01-01-from-chat-to-agent-illustrations/Tldraw 2026-08-21 2.01下午.md",
-    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/assets/01-01-from-chat-to-agent-illustrations/01-same-model-more-context.excalidraw.md",
     "obsidian/未命名 1.base",
     "obsidian/未命名.base",
     "obsidian/Excalidraw/Scripts",
