@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/写作/0. 写作学习总纲：从故事结构开始学习叙事.md",
+                "file": "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/1. Agent = 模型 + harness，记忆是插件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. 写作学习总纲：从故事结构开始学习叙事"
+              "title": "1. Agent = 模型 + harness，记忆是插件"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "0. Memory 系列大纲"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.99609375
+    "width": 361.4140625
   },
   "right": {
     "id": "538a10e127af2724",
@@ -217,17 +216,24 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "56a2a886b2ef8dcc",
+  "active": "0d03df6c43730748",
   "lastOpenFiles": [
+    "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/0. Memory 系列大纲.md",
+    "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/1. Agent = 模型 + harness，记忆是插件.md",
+    "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/assets/0-memory-series-roadmap.excalidraw.md",
+    "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/assets",
+    "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/0. Memory 系列总路线图.excalidraw.md",
+    "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/0. Memory 系列总路线图.excalidraw",
+    "obsidian/AI 应用/Agent 开发/大纲 - Agent 从 0 到 1 开发大纲.md",
+    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01. 从大模型调用到 Agent.md",
+    "obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统/02. 检索、RAG 与知识系统.md",
+    "obsidian/写作/0. 写作学习总纲：从故事结构开始学习叙事.md",
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.04-Agent Loop.md",
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.05-第一个可运行的 Agent.md",
-    "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01. 从大模型调用到 Agent.md",
-    "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/0. Memory 系列大纲.md",
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.02-构建跨 Agent 的通用 Memory.md",
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory",
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.03-Memory 实现原理，谁在什么时候写记忆.md",
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-pi 与 Mastra 怎么选.md",
-    "obsidian/写作/0. 写作学习总纲：从故事结构开始学习叙事.md",
     "obsidian/写作",
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04. 构建个人 Agent.md",
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.02-构建跨 Agent 的通用 Memory.md.tmp.16927.c59c1739990a",
@@ -236,7 +242,6 @@
     "obsidian/软件/🍔  Mine.md",
     "obsidian/软件/浏览器首页.md",
     "obsidian/Obsidian 模板/正常文章模板.md",
-    "obsidian/AI 应用/Agent 开发/大纲 - Agent 从 0 到 1 开发大纲.md",
     "obsidian/日记/2026-08-21.md",
     "obsidian/技术/Rime 输入法.md",
     "obsidian/Obsidian 模板",
@@ -245,10 +250,6 @@
     "obsidian/Prompt/图片转成诗（带场景分析）.md",
     "obsidian/Prompt/生成金属校徽徽章.md",
     "obsidian/Prompt/一句话解决codex切换供应商旧会话消失问题.md",
-    "obsidian/Prompt/生成一个 logo.md",
-    "obsidian/Prompt/生成插画.md",
-    "obsidian/Prompt/破解模型指令.md",
-    "obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统/index.md",
     "obsidian/未命名 1.base",
     "obsidian/未命名.base",
     "obsidian/Excalidraw/Scripts",
@@ -259,8 +260,6 @@
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-04-sync-and-lint-illustrations/01-sync-lint-hero.svg",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-03-obsidian-to-llm-wiki-illustrations/01-obsidian-to-wiki-hero.svg",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-02-layered-kb-illustrations/01-layered-kb-hero.svg",
-    "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-07-personal-knowledge-assistant-illustrations",
-    "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-06-skills-workflow-mcp-illustrations",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-01-needs-boundaries-illustrations/01-needs-boundaries-hero.svg",
     "obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统/assets/02-08-boundaries-illustrations/01-boundaries-hero.svg",
     "obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统/assets/02-07-agentic-rag-illustrations/01-agentic-rag-hero.svg",
