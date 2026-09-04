@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/1. Agent = 模型 + harness，记忆是插件.md",
+                "file": "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/1. 没有记忆的模型，怎么做出有记忆的 Agent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Agent = 模型 + harness，记忆是插件"
+              "title": "1. 没有记忆的模型，怎么做出有记忆的 Agent"
             }
           },
           {
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.4140625
+    "width": 320.3828125
   },
   "right": {
     "id": "538a10e127af2724",
@@ -219,6 +219,7 @@
   "active": "0d03df6c43730748",
   "lastOpenFiles": [
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/0. Memory 系列大纲.md",
+    "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/1. 没有记忆的模型，怎么做出有记忆的 Agent.md",
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/1. Agent = 模型 + harness，记忆是插件.md",
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/assets/0-memory-series-roadmap.excalidraw.md",
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/assets",
@@ -249,7 +250,6 @@
     "obsidian/Prompt/网页设计 prompt sketch.md",
     "obsidian/Prompt/图片转成诗（带场景分析）.md",
     "obsidian/Prompt/生成金属校徽徽章.md",
-    "obsidian/Prompt/一句话解决codex切换供应商旧会话消失问题.md",
     "obsidian/未命名 1.base",
     "obsidian/未命名.base",
     "obsidian/Excalidraw/Scripts",
