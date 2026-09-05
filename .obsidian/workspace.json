@@ -178,24 +178,13 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "cfc4d00c074eef7d",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {},
-              "icon": "bot",
-              "title": "Claudian"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 437.08984375,
-    "collapsed": true
+    "width": 437.08984375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,7 +201,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "0d03df6c43730748",
+  "active": "d5078894ac084745",
   "lastOpenFiles": [
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/1. 没有记忆的模型，怎么做出有记忆的 Agent.md",
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/assets/1-memory-article-structure.excalidraw.md",
