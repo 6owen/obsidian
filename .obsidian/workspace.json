@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/1. 没有记忆的模型，怎么做出有记忆的 Agent.md",
-                "mode": "source",
-                "source": false
+                "file": "obsidian/AI 应用/Agent 开发/大纲 - Agent 从 0 到 1 开发大纲.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "1. 没有记忆的模型，怎么做出有记忆的 Agent"
+              "title": "大纲 - Agent 从 0 到 1 开发大纲"
             }
           },
           {
@@ -201,7 +201,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "d5078894ac084745",
+  "active": "0d03df6c43730748",
   "lastOpenFiles": [
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/1. 没有记忆的模型，怎么做出有记忆的 Agent.md",
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/assets/1-memory-article-structure.excalidraw.md",
