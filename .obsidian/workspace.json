@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "1. 没有记忆的模型，怎么做出有记忆的 Agent"
             }
+          },
+          {
+            "id": "70258a8535e51221",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ]
       }
@@ -204,8 +214,8 @@
   },
   "active": "0d03df6c43730748",
   "lastOpenFiles": [
-    "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/assets/1-memory-article-structure.excalidraw.md",
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/1. 没有记忆的模型，怎么做出有记忆的 Agent.md",
+    "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/assets/1-memory-article-structure.excalidraw.md",
     "obsidian/写作/0. 写作学习总纲：从故事结构开始学习叙事.md",
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/assets/1-memory-article-structure-source.excalidraw",
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/0. Memory 系列大纲.md",
