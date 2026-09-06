@@ -1,6 +1,6 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "./files",
+  "attachmentFolderPath": "obsidian/assets",
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",

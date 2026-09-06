@@ -2,8 +2,14 @@
 publish: false
 ---
 
+<!-- input: 2026 年日期笔记与 obsidian/assets 集中素材。
+output: 本年文章清单和附件引用约定。
+pos: 年份目录说明；更新时同步本注释和日记目录 README。 -->
+
+> 一旦我所属的文件夹有所变化，请更新我。
+
 2026 年日记与周记。
-从 Postly 迁入的文章保留原分类、日期、slug 和草稿状态，正文只在这里维护。
+从 Postly 迁入的文章保留日期、slug 和草稿状态，统一归入 Log.life，正文只在这里维护。
 
 | 文件 | 地位 | 功能 |
 | --- | --- | --- |
@@ -17,8 +23,9 @@ publish: false
 | `2026-05-25.md` | 原始笔记 | weekly；草稿，不发布 |
 | `2026-06-01.md` | 原始笔记 | weekly；草稿，不发布 |
 | `2026-06-08.md` | 原始笔记 | weekly；草稿，不发布 |
-| `attachments/` | 笔记附件 | 随文章迁移的封面 |
 | `README.md` | 目录说明 | 文件清单与发布约定 |
 
-`weekly: true` 发布到 Weekly，`weekly: false` 发布到 Log.life；不需要再填写 `collection`。
-文件名使用日期，已有 `slug` 保留以维持文章链接。
+`weekly` 仅标记是否为周记，两种文章都发布到 Log.life；不需要填写 `collection`。
+文件名使用日期，已有 `slug` 保留；旧 Weekly 链接会跳转到对应的 Log.life 详情页。
+
+文章封面统一保存在 `obsidian/assets/`，`cover` 使用 `../../assets/文件名` 引用。
