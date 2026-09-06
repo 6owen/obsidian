@@ -16,4 +16,5 @@ pos: 目录说明；更新时同步本注释和上级目录说明。 -->
 | `6-my-use.md` | 原始笔记 | log-life；已发布 |
 | `README.md` | 目录说明 | 文件清单与发布约定 |
 
-`collection: weekly` 的笔记仍发布到 Weekly，`collection: log-life` 的笔记仍发布到 Log.life。
+`weekly: true` 发布到 Weekly，`weekly: false` 发布到 Log.life；不需要再填写 `collection`。
+文件名使用日期，已有 `slug` 保留以维持文章链接。

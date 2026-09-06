@@ -12,7 +12,7 @@ issueComments: 0
 issueAuthor: 'pinky-pig'
 issueUpdatedAt: '2025-06-14T07:52:53Z'
 sourceType: 'github-issue'
-collection: log-life
+weekly: false
 publish: true
 ---
 

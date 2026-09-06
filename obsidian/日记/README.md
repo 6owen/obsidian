@@ -2,35 +2,36 @@
 publish: false
 ---
 
-<!-- input: 日记、迁入的周记、年份目录与博客发布属性。
-output: 日记模板和发布操作说明。
+<!-- input: 年份日记、日记模板与 weekly / publish 属性。
+output: 文件组织和日记、周记的发布说明。
 pos: 日记目录说明；更新时同步本注释和相关写作说明。 -->
 
 > 一旦我所属的文件夹有所变化，请更新我。
 
-本目录保存原始日记，正文留在 Obsidian，Postly 从 GitHub 获取已发布内容。
-Daily notes 已配置使用 `0.日记模板.md`，日记文件名保持 `YYYY-MM-DD`。
+日记和周记按年份保存，正文在 Obsidian 维护，Postly 从 GitHub 获取已发布内容。
+日期笔记使用 `YYYY-MM-DD.md`；周记也使用日期命名，用 `weekly` 属性区分。
 
 | 文件 | 地位 | 功能 |
 | --- | --- | --- |
-| `0.日记模板.md` | 写作模板 | 自动填入日期与 slug，新笔记默认不发布 |
-| `YYYY-MM-DD.md` | 原始日记 | 保存对应日期的正文与发布属性 |
-| `2025/` | 年份归档 | 从 Postly 复制的 1 篇生活文章 |
-| `2026/` | 年份归档 | 从 Postly 复制的 1 篇生活文章、8 篇周记及引用的封面 |
-| `README.md` | 目录说明 | 说明发布流程，不作为博客正文 |
+| `2024/` | 年份归档 | 2024 年的历史日记 |
+| `2025/` | 年份归档 | 2025 年的生活文章 |
+| `2026/` | 年份归档 | 2026 年的日记、周记和附件 |
+| `README.md` | 目录说明 | 写作与发布约定，不作为博客正文 |
 
-新日记写好后，将 `publish: false` 改成 `publish: true`；需要暂存草稿时设置 `draft: true`。
-博客只发布 `publish: true` 且 `draft: false` 的笔记，`status` 是原有整理属性，不控制博客发布。
-模板中的 `title / date / slug` 使用 `{{title}}`，按日记文件名生成；变量必须保留引号。
-`part / parent / status / updated` 保留原来的笔记组织用途，博客不依赖它们。
+日记模板位于 `obsidian/Obsidian 模板/1. 日记模板.md`，Daily notes 已指向该模板。
+Daily notes 的新文件保存目录仍为 `obsidian/日记`，写完可归入对应年份。
 
-当前 9 篇有正文的历史日记已补齐发布属性；2024-07-06、2024-07-17、2026-08-21 仍为占位内容，保持未发布。
-每篇正文均保持原样，日期和 slug 从原文件名生成。模板本身也保持未发布。
+- `weekly: false`：普通日记，发布到 Log.life；模板默认此值。
+- `weekly: true`：周记，发布到 Weekly，只需切换这个开关。
+- `publish: true` 且 `draft: false`：允许网站发布；新日记默认不发布。
 
-提交并推送此仓库后，在 Postly 执行 `pnpm sync:content` 或重新启动 `pnpm dev` 获取更新。
-本机测试入口为 `http://localhost:3002/obsidian-test`；正式日记路径为 `/log-life/<年份>/<日期>`。
+日记不需要再填写 `collection`。兼容旧笔记时，显式 `weekly` 优先于 `collection`；不含 weekly 的其他笔记继续使用原分类。
+`title / date / slug` 在新日记中从文件名自动填入；日期形状的值必须保留引号。
+已有文章的 slug 保留原值，文件改名不改变已发布链接；之后修改 weekly、date 或 slug 会改变文章 URL。
+`part / parent / status / updated` 保留原有笔记组织用途，不控制博客发布。
 
-2026-09-06 从 Postly 复制了 `log-life` 的 2 篇、`weekly` 的 8 篇文章，按原日期放进年份目录。
-其中 6 篇延续发布状态，4 篇周记保留为未发布草稿。正文、标题、日期、slug 和原分类均保留；两张封面改用本目录附件的相对路径。
-Postly 的原文件作为迁移留档，统一设置 `publish: false`；后续只编辑这里的文章，避免两个来源重复发布。
-原有日期命名的日记和模板仍在当前目录。本次新增年份目录不改变已有 Daily notes 配置。
+8 篇从 Postly 迁入的周记已由 `weekly-YYYYMMDD.md` 改名为 `YYYY-MM-DD.md`，其中 4 篇仍是草稿。
+原仓库副本保持 `publish: false`，后续只编辑 Obsidian 原文。正文和已有发布状态保持不变。
+
+提交并推送此仓库后，在 Postly 执行 `pnpm sync:content` 获取更新。
+本机测试入口为 `http://localhost:3002/obsidian-test`。
