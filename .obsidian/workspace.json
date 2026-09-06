@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/AI 应用/Agent 开发/大纲 - Agent 从 0 到 1 开发大纲.md",
-                "mode": "preview",
+                "file": "obsidian/日记/0.日记模板.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "大纲 - Agent 从 0 到 1 开发大纲"
+              "title": "0.日记模板"
             }
           },
           {
@@ -203,6 +203,12 @@
   },
   "active": "0d03df6c43730748",
   "lastOpenFiles": [
+    "obsidian/日记/2026",
+    "obsidian/日记/2025",
+    "obsidian/日记/2024",
+    "obsidian/Obsidian 模板/正常文章模板.md",
+    "obsidian/日记/0.日记模板.md",
+    "obsidian/AI 应用/Agent 开发/大纲 - Agent 从 0 到 1 开发大纲.md",
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/1. 没有记忆的模型，怎么做出有记忆的 Agent.md",
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/assets/1-memory-article-structure.excalidraw.md",
     "obsidian/写作/0. 写作学习总纲：从故事结构开始学习叙事.md",
@@ -213,7 +219,6 @@
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/assets",
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/0. Memory 系列总路线图.excalidraw.md",
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/0. Memory 系列总路线图.excalidraw",
-    "obsidian/AI 应用/Agent 开发/大纲 - Agent 从 0 到 1 开发大纲.md",
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01. 从大模型调用到 Agent.md",
     "obsidian/AI 应用/Agent 开发/02-检索 RAG 与知识系统/02. 检索、RAG 与知识系统.md",
     "obsidian/AI 应用/Agent 开发/01-从大模型调用到 Agent/01.04-Agent Loop.md",
@@ -229,16 +234,11 @@
     "obsidian/软件/1. Rime 软件使用.md",
     "obsidian/软件/🍔  Mine.md",
     "obsidian/软件/浏览器首页.md",
-    "obsidian/Obsidian 模板/正常文章模板.md",
     "obsidian/日记/2026-08-21.md",
     "obsidian/技术/Rime 输入法.md",
     "obsidian/Obsidian 模板",
     "obsidian/Prompt/AI 讲解知识点.md",
-    "obsidian/Prompt/网页设计 prompt sketch.md",
-    "obsidian/Prompt/图片转成诗（带场景分析）.md",
     "obsidian/未命名 1.base",
-    "obsidian/未命名.base",
-    "obsidian/Excalidraw/Scripts",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-07-personal-knowledge-assistant-illustrations/01-personal-knowledge-assistant-hero.svg",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-06-skills-workflow-mcp-illustrations/01-skills-workflow-mcp-hero.svg",
     "obsidian/AI 应用/Agent 开发/03-构建个人知识库/assets/03-05-agent-access-illustrations/01-agent-access-hero.svg",
