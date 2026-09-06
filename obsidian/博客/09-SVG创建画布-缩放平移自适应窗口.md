@@ -7,11 +7,11 @@ collection: "post"
 publish: false
 draft: false
 tags: ["全部","一般般"]
-cover: "../assets/blog-canvas-9ad5eb3f.gif"
+cover: "assets/blog-canvas-9ad5eb3f.gif"
 ---
 
 
-![canvas.gif](../assets/blog-canvas-9ad5eb3f.gif)
+![canvas.gif](assets/blog-canvas-9ad5eb3f.gif)
 
 在线源码及预览地址：[https://stackblitz.com/edit/vitejs-vite-q5jcer?file=README.md](https://stackblitz.com/edit/vitejs-vite-q5jcer?file=README.md)
 
@@ -38,7 +38,7 @@ cover: "../assets/blog-canvas-9ad5eb3f.gif"
 - MouseEvent.x 是 MouseEvent.clientX 属性的别名.
 - MouseEvent.y 属性是 MouseEvent.clientY 属性的别称。
 
-![offset.png](../assets/blog-offset-553983b2.webp)
+![offset.png](assets/blog-offset-553983b2.webp)
 
 ### 监听
 
@@ -108,7 +108,7 @@ function eventToLocation(event: MouseEvent | TouchEvent, idx = 0): { x: number, 
 这里使用了`@vueuse`的`useElementBounding`方法获取当前dom距离浏览器的距离。这个方法使用的是
 [Element.getBoundingClientRect()](https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect)
 
-![images20221116144009.png](../assets/blog-images20221116144009-835f07b1.webp)
+![images20221116144009.png](assets/blog-images20221116144009-835f07b1.webp)
 
 这里使用的`clientX clientY`，因为画布是占满浏览器的，所以这里`pageX(Y) clientX(Y) offsetX(Y)`值是相同的。
 

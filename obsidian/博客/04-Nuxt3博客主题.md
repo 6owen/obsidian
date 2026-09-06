@@ -7,11 +7,11 @@ collection: "post"
 publish: false
 draft: false
 tags: ["全部","简单"]
-cover: "../assets/blog-20230614204503-b2f18bf1.webp"
+cover: "assets/blog-20230614204503-b2f18bf1.webp"
 ---
 
 
-![theme](../assets/blog-20230614204503-b2f18bf1.webp)
+![theme](assets/blog-20230614204503-b2f18bf1.webp)
 <small>设置渲染 Markdown 内容样式</small>
 
 **原因**

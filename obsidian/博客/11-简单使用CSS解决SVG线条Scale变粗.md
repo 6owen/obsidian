@@ -7,11 +7,11 @@ collection: "post"
 publish: false
 draft: false
 tags: ["全部","简单"]
-cover: "../assets/blog-vector-effect-d764c21c.gif"
+cover: "assets/blog-vector-effect-d764c21c.gif"
 ---
 
 
-![vector-effect.gif](../assets/blog-vector-effect-d764c21c.gif)
+![vector-effect.gif](assets/blog-vector-effect-d764c21c.gif)
 
 # 前言
 

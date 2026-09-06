@@ -7,13 +7,13 @@ collection: "post"
 publish: false
 draft: false
 tags: ["全部","一般般"]
-cover: "../assets/blog-gd-threejs-angle-fa6928f1.gif"
+cover: "assets/blog-gd-threejs-angle-fa6928f1.gif"
 ---
 
 
 ---
 
-![gd-threejs-angle.gif](../assets/blog-gd-threejs-angle-fa6928f1.gif)
+![gd-threejs-angle.gif](assets/blog-gd-threejs-angle-fa6928f1.gif)
 
 # 前言
 
@@ -49,11 +49,11 @@ function calculateAngle(start, end) {
 
 因为我们要求的是两点的方向夹角，很自然的想到了根据坐标系，一点为坐标系原点，另一点在当前坐标系，然后根据`(x,y)`算出角度。于是就使用到了[Math.atan2()](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Math/atan2)这个方法。
 
-![image.png](../assets/blog-image-daa9682f.webp)
+![image.png](assets/blog-image-daa9682f.webp)
 
 在使用 `Math.atan2(s)`之前，其实是想使用反正切函数`Math.atan(s)`，`s = y / x`，不过其周期范围`[π/2,π/2]`,是在-90度到90度，即180度。那么两个相差180度的角会有相同的正切和斜率，无法根据值进行象限判断，还需通过计算x和y的差值正负判断。
 
-![image.png](../assets/blog-image-881605d1.webp)
+![image.png](assets/blog-image-881605d1.webp)
 
 ```js
 Math.atan(1 / -1) // 第二象限 135度 : -0.7853981633974483
@@ -177,12 +177,12 @@ loader.load('/models/car/scene.gltf', (gltf) => {
 - 🚠 导入后的项目代码跟别的项目代码界面不太一致，不能直接运行，[翻看官网](https://codesandbox.io/docs/importing#import-from-github)
 - 🚀 在 github仓库地址栏的`github.com`改为`githubbox.com`,会自动重定向至sandbox项目
 
-![image.png](../assets/blog-image-7ac8b40c.webp)
+![image.png](assets/blog-image-7ac8b40c.webp)
 
-![image.png](../assets/blog-image-aa947581.webp)
+![image.png](assets/blog-image-aa947581.webp)
 
-![image.png](../assets/blog-image-2e0e04de.webp)
+![image.png](assets/blog-image-2e0e04de.webp)
 
-![image.png](../assets/blog-image-3bf2273e.webp)
+![image.png](assets/blog-image-3bf2273e.webp)
 
-![image.png](../assets/blog-image-4c6f0431.webp)
+![image.png](assets/blog-image-4c6f0431.webp)

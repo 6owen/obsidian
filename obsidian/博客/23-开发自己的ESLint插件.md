@@ -7,7 +7,7 @@ collection: "post"
 publish: false
 draft: false
 tags: ["全部","困难"]
-cover: "../assets/blog-Pasted-image-20240327153535-b0a559f9.webp"
+cover: "assets/blog-Pasted-image-20240327153535-b0a559f9.webp"
 ---
 
 
@@ -64,7 +64,7 @@ yo eslint:rule
 
 ##### 使用 `yo eslint:plugin` 创建插件:
 
-![Pasted%20image%2020240327153535](../assets/blog-Pasted-image-20240327153535-b0a559f9.webp)
+![Pasted%20image%2020240327153535](assets/blog-Pasted-image-20240327153535-b0a559f9.webp)
 
 a. 使用 `VsCode` 打开文件夹
 
@@ -91,11 +91,11 @@ c. 文件目录介绍
 
 ##### 使用 `yo eslint:rule` 创建规则:
 
-![Pasted%20image%2020240327155110](../assets/blog-Pasted-image-20240327155110-590afae8.webp)
+![Pasted%20image%2020240327155110](assets/blog-Pasted-image-20240327155110-590afae8.webp)
 
 a. 生成的文件目录
 
-![Pasted image 20240327155353](../assets/blog-Pasted-image-20240327155353-2bab3f92.webp)
+![Pasted image 20240327155353](assets/blog-Pasted-image-20240327155353-2bab3f92.webp)
 
 b. 打开要开发的规则文件代码看看
 
@@ -147,7 +147,7 @@ ruleTester.run('no-alert', rule, {
 d. 准备编写规则 Rule 代码
 测试用例已经写了一个，`alert(0)`是报错的，接下来就是要在 Rule 代码中实现。
 
-![Pasted image 20240327160553](../assets/blog-Pasted-image-20240327160553-78024bda.webp)
+![Pasted image 20240327160553](assets/blog-Pasted-image-20240327160553-78024bda.webp)
 
 由上面AST分析器可知，alert会在这里触发。于是开始**调试代码**。其实在使用脚手架创建项目的时候，已经安装了调试代码的依赖，就是 `mocha` 这个包。
 
@@ -159,10 +159,10 @@ d. 准备编写规则 Rule 代码
 4. 会发现变量跟上面 [astexplorer](https://astexplorer.net/) 的结构都一样，那么下面就好写了
 
 打断点调试：
-![Pasted image 20240327163108](../assets/blog-Pasted-image-20240327163108-6fc6bad0.webp)
+![Pasted image 20240327163108](assets/blog-Pasted-image-20240327163108-6fc6bad0.webp)
 
 变量：
-![Pasted image 20240327163257](../assets/blog-Pasted-image-20240327163257-917e3af9.webp)
+![Pasted image 20240327163257](assets/blog-Pasted-image-20240327163257-917e3af9.webp)
 
 e. 继续开发 Rule 代码
 
@@ -206,7 +206,7 @@ module.exports = {
 
 上面的代码已经完成了80%，运行测试用例，发现是报错的。查看报错信息，绿色是测试期待的输出，红色是实际输出不一致。我们知道测试期待的是有个 messageId 提示。
 
-![Pasted image 20240327164210](../assets/blog-Pasted-image-20240327164210-77859b0a.webp)
+![Pasted image 20240327164210](assets/blog-Pasted-image-20240327164210-77859b0a.webp)
 
 那么我们将代码改一下，再运行测试用例就会发现全部通过了。
 
@@ -223,7 +223,7 @@ if (node.expression.callee.name === 'alert') {
 }
 ```
 
-![Pasted image 20240327164418](../assets/blog-Pasted-image-20240327164418-d6695146.webp)
+![Pasted image 20240327164418](assets/blog-Pasted-image-20240327164418-d6695146.webp)
 
 ##### 再创建一条规则:
 
@@ -328,7 +328,7 @@ module.exports = {
 
 这个时候会发现 package.json 中多了一个 `"custom-eslint": "link:.."` ,而且往 node_modules 中查找 ，发现有刚才自定义的插件文件夹，这就说明自定义的插件包安装成功了。
 
-![Pasted image 20240328111859](../assets/blog-Pasted-image-20240328111859-4676aafa.webp)
+![Pasted image 20240328111859](assets/blog-Pasted-image-20240328111859-4676aafa.webp)
 
 既然已经安装成功，那么接下来就是如何应用了。
 

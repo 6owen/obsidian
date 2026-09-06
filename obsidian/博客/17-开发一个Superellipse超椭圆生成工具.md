@@ -7,11 +7,11 @@ collection: "post"
 publish: false
 draft: false
 tags: ["全部","一般般"]
-cover: "../assets/blog-superellipse1-30681a89.webp"
+cover: "assets/blog-superellipse1-30681a89.webp"
 ---
 
 
-![superellipse1](../assets/blog-superellipse1-30681a89.webp)
+![superellipse1](assets/blog-superellipse1-30681a89.webp)
 
 # 前言
 
@@ -31,7 +31,7 @@ cover: "../assets/blog-superellipse1-30681a89.webp"
 
 原研哉采用的就是 `n = 3` 的超椭圆。
 
-![superellipse2](../assets/blog-superellipse2-33b4cec5.webp)
+![superellipse2](assets/blog-superellipse2-33b4cec5.webp)
 
 而后再去观察日常生活的最常见的超椭圆可能就是各个手机系统的图标了，很多都是应用的超椭圆，只是 n 的值可能不太一样。
 
@@ -39,7 +39,7 @@ cover: "../assets/blog-superellipse1-30681a89.webp"
 
 > 是在[笛卡儿坐标系](https://zh.wikipedia.org/wiki/%E7%AC%9B%E5%8D%A1%E5%84%BF%E5%9D%90%E6%A0%87%E7%B3%BB '笛卡儿坐标系')下满足以下方程式的点的集合：
 >
-> ![{\\displaystyle |{\\frac {x}{a}}|^{n}!+|{\\frac {y}{b}}|^{n}!=1}](../assets/blog-dikaer-cdb850aa.svg)
+> ![{\\displaystyle |{\\frac {x}{a}}|^{n}!+|{\\frac {y}{b}}|^{n}!=1}](assets/blog-dikaer-cdb850aa.svg)
 
 > 其中*n*、*a*及*b*为正数。这里设置 a b 的值都为 1 ，简化为 `|x|^n + |y|^n = 1`
 
@@ -56,9 +56,9 @@ cover: "../assets/blog-superellipse1-30681a89.webp"
 - [√] 预设超椭圆 Demo
 - [√] 小彩蛋，（点击中间预览 SVG 随机 ｜ 按下键盘空格 ）更换背景色。
 
-![superellipse4](../assets/blog-superellipse4-b3dcfc57.webp)
+![superellipse4](assets/blog-superellipse4-b3dcfc57.webp)
 
-![superellipse5](../assets/blog-superellipse5-5b29ecef.webp)
+![superellipse5](assets/blog-superellipse5-5b29ecef.webp)
 
 # 核心代码
 

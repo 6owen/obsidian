@@ -2,7 +2,7 @@
 publish: false
 ---
 
-<!-- input: 2026 年日期笔记与 obsidian/assets 集中素材。
+<!-- input: 2026 年日期笔记与 obsidian/日记/assets 日记素材。
 output: 本年文章清单和附件引用约定。
 pos: 年份目录说明；更新时同步本注释和日记目录 README。 -->
 
@@ -28,4 +28,4 @@ pos: 年份目录说明；更新时同步本注释和日记目录 README。 -->
 `weekly` 仅标记是否为周记，两种文章都发布到 Log.life；不需要填写 `collection`。
 文件名使用日期，已有 `slug` 保留；旧 Weekly 链接会跳转到对应的 Log.life 详情页。
 
-文章封面统一保存在 `obsidian/assets/`，`cover` 使用 `../../assets/文件名` 引用。
+文章封面统一保存在 `obsidian/日记/assets/`，`cover` 使用 `../assets/文件名` 引用。

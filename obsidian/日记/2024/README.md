@@ -2,7 +2,7 @@
 publish: false
 ---
 
-<!-- input: 2024 年日期笔记与 obsidian/assets 集中素材。
+<!-- input: 2024 年日期笔记与 obsidian/日记/assets 日记素材。
 output: 本年文章清单和附件引用约定。
 pos: 年份目录说明；更新时同步本注释和日记目录 README。 -->
 
@@ -40,5 +40,5 @@ pos: 年份目录说明；更新时同步本注释和日记目录 README。 -->
 | `README.md` | 目录说明，不参与发布 |
 
 原始标题和正文保留，旧文件名保存在 aliases 中。`desc` 映射为 description。
-素材统一保存在 `obsidian/assets/`，正文和封面使用 `../../assets/文件名` 引用；图片已经 Sharp 压缩，源目录文件未修改。
+素材统一保存在 `obsidian/日记/assets/`，正文和封面使用 `../assets/文件名` 引用；图片已经 Sharp 压缩，源目录文件未修改。
 旧 HTML 图片已转换为 Markdown，旧 `[[toc]]` 占位符已移除，视频使用可点击的本地文件链接；正文文字与代码保留。

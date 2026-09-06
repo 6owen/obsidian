@@ -7,7 +7,7 @@ collection: "post"
 publish: false
 draft: false
 tags: ["全部","一般般"]
-cover: "../assets/blog-20240222111638-f7b96b30.webp"
+cover: "assets/blog-20240222111638-f7b96b30.webp"
 ---
 
 

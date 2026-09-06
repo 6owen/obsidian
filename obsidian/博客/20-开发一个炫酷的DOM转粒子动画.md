@@ -7,17 +7,17 @@ collection: "post"
 publish: false
 draft: false
 tags: ["全部","困难"]
-cover: "../assets/html2particleNew.gif"
+cover: "assets/html2particleNew.gif"
 ---
 
 
-![html2particleNew.gif](../assets/html2particleNew.gif)
+![html2particleNew.gif](assets/html2particleNew.gif)
 
 ## 前言
 
 在我网络冲浪的时候，无意之间看到了一位大佬做的粒子效果很是炫酷，不过只做了 Mac 端的示例，我于是就学习做了一个 Web 端的 DOM 转 Canvas 粒子动画效果。代码仓库、说明文档及NPM包都在结尾。
 
-![dom2particle2](../assets/blog-dom2particle2-df477c6f.webp)
+![dom2particle2](assets/blog-dom2particle2-df477c6f.webp)
 
 ## 实现思路
 
@@ -33,7 +33,7 @@ cover: "../assets/html2particleNew.gif"
 
 既然是要将 DOM 转为 Canvas 粒子，那么输入自然是 DOM 。这里预设了两种粒子效果，就如开篇的图所示。
 
-![dom2particle3](../assets/blog-dom2particle3-9d09d1b2.webp)
+![dom2particle3](assets/blog-dom2particle3-9d09d1b2.webp)
 
 **获取图像数据**
 

@@ -7,11 +7,11 @@ collection: "post"
 publish: false
 draft: false
 tags: ["全部","简单"]
-cover: "../assets/blog-random-bg-1-ec29c173.webp"
+cover: "assets/blog-random-bg-1-ec29c173.webp"
 ---
 
 
-![random-bg-1](../assets/blog-random-bg-1-ec29c173.webp)
+![random-bg-1](assets/blog-random-bg-1-ec29c173.webp)
 
 > 更新： 2023/01/11 - Svg滤镜实现
 
@@ -40,7 +40,7 @@ function getRandomIntInclusive(min: number, max: number) {
 
 这里我在这个网站上找的配色[coolors](https://coolors.co/)，主要是看其方便拷贝色值，在其地址栏URL就有了色值组合，直接拿来用。
 
-![random-bg-2](../assets/blog-random-bg-2-4b872dec.webp)
+![random-bg-2](assets/blog-random-bg-2-4b872dec.webp)
 
 这是随便找的几个色彩组合。
 
@@ -124,7 +124,7 @@ function randomGeneratePolygon() {
 
 上面几步操作以及完成了百分之九十，已经达到了随机生成三个不同颜色的多边形，如下所示。
 
-![random-bg-3](../assets/blog-random-bg-3-47cd90e6.webp)
+![random-bg-3](assets/blog-random-bg-3-47cd90e6.webp)
 
 这里我们加一个 `backdrop-filter`就能使背景模糊了~~
 
@@ -143,13 +143,13 @@ function randomGeneratePolygon() {
 
 看看效果⭐
 
-![random-bg-4](../assets/blog-random-bg-4-bfb1d9ea.webp)
+![random-bg-4](assets/blog-random-bg-4-bfb1d9ea.webp)
 
 甚至还可以再加一个噪声图片处理一下，让其更加模糊🤡，参考这个[Codepen](https://codepen.io/pinky-pig/pen/ZEjzzpX)，只是新增一句`background-image: url(https://arc.net/noise.png);`
 
 看看效果🍔
 
-![random-bg-5](../assets/blog-random-bg-1-ec29c173.webp)
+![random-bg-5](assets/blog-random-bg-1-ec29c173.webp)
 
 ## 全部代码
 
@@ -243,7 +243,7 @@ randomGeneratePolygon()
 
 上述虽然已经实现了，但是filter属性需要浏览器的支持度较高，比如火狐浏览器就不支持这个。而且我再实际开发过程中，还遇到了比如给其添加`border:1px solid black;`，其也会模糊，效果非常不好；还有若再在border的基础上给其添加transform动画的时候，其会有闪烁效果，影响更加不好了。
 
-![random-bg-6](../assets/blog-random-bg-6-f850137b.webp)
+![random-bg-6](assets/blog-random-bg-6-f850137b.webp)
 
 针对`backdrop-filter`浏览器支持度的问题，查阅文档的时候，看到张鑫旭老师的文章，火狐浏览器可以使用Svg滤镜实现。
 
