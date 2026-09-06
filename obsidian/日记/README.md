@@ -1,0 +1,29 @@
+---
+publish: false
+---
+
+<!-- input: 日记文件名、正文与博客发布属性。
+output: 日记模板和发布操作说明。
+pos: 日记目录说明；更新时同步本注释和相关写作说明。 -->
+
+> 一旦我所属的文件夹有所变化，请更新我。
+
+本目录保存原始日记，正文留在 Obsidian，Postly 从 GitHub 获取已发布内容。
+Daily notes 已配置使用 `0.日记模板.md`，日记文件名保持 `YYYY-MM-DD`。
+
+| 文件 | 地位 | 功能 |
+| --- | --- | --- |
+| `0.日记模板.md` | 写作模板 | 自动填入日期与 slug，新笔记默认不发布 |
+| `YYYY-MM-DD.md` | 原始日记 | 保存对应日期的正文与发布属性 |
+| `README.md` | 目录说明 | 说明发布流程，不作为博客正文 |
+
+新日记写好后，将 `publish: false` 改成 `publish: true`；需要暂存草稿时设置 `draft: true`。
+博客只发布 `publish: true` 且 `draft: false` 的笔记，`status` 是原有整理属性，不控制博客发布。
+模板中的 `title / date / slug` 使用 `{{title}}`，按日记文件名生成；变量必须保留引号。
+`part / parent / status / updated` 保留原来的笔记组织用途，博客不依赖它们。
+
+当前 9 篇有正文的历史日记已补齐发布属性；2024-07-06、2024-07-17、2026-08-21 仍为占位内容，保持未发布。
+每篇正文均保持原样，日期和 slug 从原文件名生成。模板本身也保持未发布。
+
+提交并推送此仓库后，在 Postly 执行 `pnpm sync:content` 或重新启动 `pnpm dev` 获取更新。
+本机测试入口为 `http://localhost:3002/obsidian-test`；正式日记路径为 `/log-life/<年份>/<日期>`。
