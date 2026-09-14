@@ -11,14 +11,12 @@
             "id": "8a034e3dc8a6638d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.03-Memory 实现原理，谁在什么时候写记忆.md",
-                "mode": "source",
-                "source": false
+                "file": "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/assets/1-memory-article-structure-source.excalidraw"
               },
-              "icon": "lucide-file",
-              "title": "04.03-Memory 实现原理，谁在什么时候写记忆"
+              "icon": "excalidraw-icon",
+              "title": "1-memory-article-structure-source"
             }
           }
         ]
@@ -192,8 +190,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "8a034e3dc8a6638d",
+  "active": "2dc359cf131bde33",
   "lastOpenFiles": [
+    "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/assets/1-memory-article-structure-source.excalidraw",
+    "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.03-Memory 实现原理，谁在什么时候写记忆.md",
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.02-构建跨 Agent 的通用 Memory.md",
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-pi 与 Mastra 怎么选.md",
     "obsidian/日记/assets/20231015钟山灵谷路1.webp",
@@ -231,8 +231,6 @@
     "obsidian/博客/12-简单使用Vue3开发浏览器插件.md",
     "obsidian/博客/11-简单使用CSS解决SVG线条Scale变粗.md",
     "obsidian/博客/10-简单使用CSS解决组件遮盖地图操作的问题.md",
-    "obsidian/博客/09-SVG创建画布-缩放平移自适应窗口.md",
-    "obsidian/博客/08-简单使用贝塞尔曲线构造弯曲箭头.md",
     "obsidian/博客",
     "obsidian/assets/视频(2).mp4",
     "obsidian/assets",
