@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "48c529950bb47a3e",
+        "id": "3d57a1a742a7cf9a",
         "type": "tabs",
         "children": [
           {
-            "id": "8a034e3dc8a6638d",
+            "id": "82f893cede4e4ffc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/assets/1-memory-article-structure-source.excalidraw"
-              },
-              "icon": "excalidraw-icon",
-              "title": "1-memory-article-structure-source"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.28125
+    "width": 364.4921875
   },
   "right": {
     "id": "538a10e127af2724",
@@ -190,7 +188,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "2dc359cf131bde33",
+  "active": "f6323fc5d23549f4",
   "lastOpenFiles": [
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/assets/1-memory-article-structure-source.excalidraw",
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.03-Memory 实现原理，谁在什么时候写记忆.md",
