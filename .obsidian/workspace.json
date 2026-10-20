@@ -11,10 +11,12 @@
             "id": "82f893cede4e4ffc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.14.4"
             }
           }
         ]
@@ -188,7 +190,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f6323fc5d23549f4",
+  "active": "82f893cede4e4ffc",
   "lastOpenFiles": [
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.01-Memory/assets/1-memory-article-structure-source.excalidraw",
     "obsidian/AI 应用/Agent 开发/04-构建个人 Agent/04.03-Memory 实现原理，谁在什么时候写记忆.md",
